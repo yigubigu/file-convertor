@@ -1,0 +1,5922 @@
+[
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-25 09:30:18",
+    "sourceLongitude": 113.36599183,
+    "sourceLatitude": 23.19743447,
+    "destinationLongitude": 113.366248,
+    "destinationLatitude": 23.197416,
+    "distance": 26.304499076679424
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-25 09:27:07",
+    "sourceLongitude": 113.36295467,
+    "sourceLatitude": 23.20907011,
+    "destinationLongitude": 113.362984,
+    "destinationLatitude": 23.2091,
+    "distance": 4.4689607243719625
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-25 09:24:00",
+    "sourceLongitude": 113.35213619,
+    "sourceLatitude": 23.23683331,
+    "destinationLongitude": 113.35212,
+    "destinationLatitude": 23.236834,
+    "distance": 1.6586911009648206
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-25 09:21:05",
+    "sourceLongitude": 113.35751812,
+    "sourceLatitude": 23.26070956,
+    "destinationLongitude": 113.357584,
+    "destinationLatitude": 23.260834,
+    "distance": 15.341807691814571
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-25 09:18:12",
+    "sourceLongitude": 113.35806657,
+    "sourceLatitude": 23.28083053,
+    "destinationLongitude": 113.358272,
+    "destinationLatitude": 23.2808,
+    "distance": 21.287615001094213
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 23:03:38",
+    "sourceLongitude": 113.29264929,
+    "sourceLatitude": 23.34704009,
+    "destinationLongitude": 113.290616,
+    "destinationLatitude": 23.342934,
+    "distance": 500.02542230929913
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 23:00:39",
+    "sourceLongitude": 113.29265295,
+    "sourceLatitude": 23.34703485,
+    "destinationLongitude": 113.290616,
+    "destinationLatitude": 23.342934,
+    "distance": 499.6536234641685
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 22:54:42",
+    "sourceLongitude": 113.29215844,
+    "sourceLatitude": 23.34560803,
+    "destinationLongitude": 113.290616,
+    "destinationLatitude": 23.342934,
+    "distance": 335.5314632829611
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 22:45:14",
+    "sourceLongitude": 113.29137663,
+    "sourceLatitude": 23.34489348,
+    "destinationLongitude": 113.290616,
+    "destinationLatitude": 23.342934,
+    "distance": 230.528869619989
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 22:42:14",
+    "sourceLongitude": 113.29198842,
+    "sourceLatitude": 23.34395095,
+    "destinationLongitude": 113.290616,
+    "destinationLatitude": 23.342934,
+    "distance": 179.9485432443778
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 22:39:15",
+    "sourceLongitude": 113.29120372,
+    "sourceLatitude": 23.34255405,
+    "destinationLongitude": 113.290616,
+    "destinationLatitude": 23.342934,
+    "distance": 73.36766809251944
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 22:36:18",
+    "sourceLongitude": 113.29064326,
+    "sourceLatitude": 23.34289512,
+    "destinationLongitude": 113.290616,
+    "destinationLatitude": 23.342934,
+    "distance": 5.129514443988116
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 22:33:45",
+    "sourceLongitude": 113.29062716,
+    "sourceLatitude": 23.34288964,
+    "destinationLongitude": 113.290616,
+    "destinationLatitude": 23.342934,
+    "distance": 5.043630853799586
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 22:33:18",
+    "sourceLongitude": 113.2906252,
+    "sourceLatitude": 23.34289042,
+    "destinationLongitude": 113.290616,
+    "destinationLatitude": 23.342934,
+    "distance": 4.917274095382658
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 22:30:20",
+    "sourceLongitude": 113.29050106,
+    "sourceLatitude": 23.34267927,
+    "destinationLongitude": 113.290568,
+    "destinationLatitude": 23.342766,
+    "distance": 11.79493040112989
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 22:18:27",
+    "sourceLongitude": 113.29468858,
+    "sourceLatitude": 23.30336244,
+    "destinationLongitude": 113.294704,
+    "destinationLatitude": 23.303466,
+    "distance": 11.577048651840052
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 22:03:02",
+    "sourceLongitude": 113.44599297,
+    "sourceLatitude": 23.25434021,
+    "destinationLongitude": 113.445688,
+    "destinationLatitude": 23.254284,
+    "distance": 31.82224128103106
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 21:39:07",
+    "sourceLongitude": 113.71144601,
+    "sourceLatitude": 23.37683014,
+    "destinationLongitude": 113.711064,
+    "destinationLatitude": 23.376784,
+    "distance": 39.38795624048021
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 21:27:00",
+    "sourceLongitude": 113.85933985,
+    "sourceLatitude": 23.42321354,
+    "destinationLongitude": 113.858864,
+    "destinationLatitude": 23.423416,
+    "distance": 53.55209481993798
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 21:15:01",
+    "sourceLongitude": 113.9703418,
+    "sourceLatitude": 23.51327594,
+    "destinationLongitude": 113.969984,
+    "destinationLatitude": 23.5132,
+    "distance": 37.49777901898
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 21:00:06",
+    "sourceLongitude": 114.09054366,
+    "sourceLatitude": 23.61599482,
+    "destinationLongitude": 114.090344,
+    "destinationLatitude": 23.616234,
+    "distance": 33.419680281626015
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 20:57:07",
+    "sourceLongitude": 114.11950407,
+    "sourceLatitude": 23.5969462,
+    "destinationLongitude": 114.119288,
+    "destinationLatitude": 23.597116,
+    "distance": 28.982929229275197
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 20:54:01",
+    "sourceLongitude": 114.15807323,
+    "sourceLatitude": 23.59716718,
+    "destinationLongitude": 114.157816,
+    "destinationLatitude": 23.597084,
+    "distance": 27.823801464509025
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 20:51:02",
+    "sourceLongitude": 114.19298353,
+    "sourceLatitude": 23.60911353,
+    "destinationLongitude": 114.192864,
+    "destinationLatitude": 23.608966,
+    "distance": 20.390824438596812
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 20:36:06",
+    "sourceLongitude": 114.33960235,
+    "sourceLatitude": 23.52787333,
+    "destinationLongitude": 114.339344,
+    "destinationLatitude": 23.52815,
+    "distance": 40.434479986670574
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 20:33:01",
+    "sourceLongitude": 114.37237374,
+    "sourceLatitude": 23.51393893,
+    "destinationLongitude": 114.372168,
+    "destinationLatitude": 23.513968,
+    "distance": 21.25750401596107
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 20:30:01",
+    "sourceLongitude": 114.40416037,
+    "sourceLatitude": 23.49937377,
+    "destinationLongitude": 114.403736,
+    "destinationLatitude": 23.499434,
+    "distance": 43.85605102257142
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 20:27:08",
+    "sourceLongitude": 114.43377611,
+    "sourceLatitude": 23.4995664,
+    "destinationLongitude": 114.433672,
+    "destinationLatitude": 23.499568,
+    "distance": 10.635414210005615
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 18:03:03",
+    "sourceLongitude": 115.88175035,
+    "sourceLatitude": 23.47236635,
+    "destinationLongitude": 115.881656,
+    "destinationLatitude": 23.472434,
+    "distance": 12.208393042790059
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 18:00:09",
+    "sourceLongitude": 115.90890336,
+    "sourceLatitude": 23.45742809,
+    "destinationLongitude": 115.90868,
+    "destinationLatitude": 23.45745,
+    "distance": 22.950183295015876
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:57:08",
+    "sourceLongitude": 115.94334008,
+    "sourceLatitude": 23.44844129,
+    "destinationLongitude": 115.943,
+    "destinationLatitude": 23.448516,
+    "distance": 35.72110514937723
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:51:04",
+    "sourceLongitude": 116.01361347,
+    "sourceLatitude": 23.44572904,
+    "destinationLongitude": 116.013128,
+    "destinationLatitude": 23.44545,
+    "distance": 58.44545777351273
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:48:02",
+    "sourceLongitude": 116.0494225,
+    "sourceLatitude": 23.45434219,
+    "destinationLongitude": 116.049104,
+    "destinationLatitude": 23.454334,
+    "distance": 32.555757104372056
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:45:01",
+    "sourceLongitude": 116.08561438,
+    "sourceLatitude": 23.4651084,
+    "destinationLongitude": 116.085432,
+    "destinationLatitude": 23.465032,
+    "distance": 20.46454241262912
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:42:05",
+    "sourceLongitude": 116.12081113,
+    "sourceLatitude": 23.46725924,
+    "destinationLongitude": 116.120512,
+    "destinationLatitude": 23.467166,
+    "distance": 32.25847313588609
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:39:08",
+    "sourceLongitude": 116.15710369,
+    "sourceLatitude": 23.46693501,
+    "destinationLongitude": 116.156584,
+    "destinationLatitude": 23.466868,
+    "distance": 53.61108138518433
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:36:05",
+    "sourceLongitude": 116.19451105,
+    "sourceLatitude": 23.46232833,
+    "destinationLongitude": 116.194216,
+    "destinationLatitude": 23.462334,
+    "distance": 30.151812137663875
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:33:59",
+    "sourceLongitude": 116.21550354,
+    "sourceLatitude": 23.47463098,
+    "destinationLongitude": 116.215136,
+    "destinationLatitude": 23.474318,
+    "distance": 51.10156012831318
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:33:00",
+    "sourceLongitude": 116.22691969,
+    "sourceLatitude": 23.47666913,
+    "destinationLongitude": 116.2266,
+    "destinationLatitude": 23.47665,
+    "distance": 32.72786456281661
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:30:05",
+    "sourceLongitude": 116.26179441,
+    "sourceLatitude": 23.47553443,
+    "destinationLongitude": 116.261464,
+    "destinationLatitude": 23.475466,
+    "distance": 34.594985665526245
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:27:03",
+    "sourceLongitude": 116.29715249,
+    "sourceLatitude": 23.46472215,
+    "destinationLongitude": 116.296896,
+    "destinationLatitude": 23.4647,
+    "distance": 26.319696559224244
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:24:02",
+    "sourceLongitude": 116.33323085,
+    "sourceLatitude": 23.46385144,
+    "destinationLongitude": 116.333088,
+    "destinationLatitude": 23.46375,
+    "distance": 18.418029981987356
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:21:05",
+    "sourceLongitude": 116.36720072,
+    "sourceLatitude": 23.45369784,
+    "destinationLongitude": 116.366984,
+    "destinationLatitude": 23.4537,
+    "distance": 22.145024227666486
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:15:02",
+    "sourceLongitude": 116.42957044,
+    "sourceLatitude": 23.46477885,
+    "destinationLongitude": 116.429152,
+    "destinationLatitude": 23.464532,
+    "distance": 50.74525621377905
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:12:00",
+    "sourceLongitude": 116.45447564,
+    "sourceLatitude": 23.48888904,
+    "destinationLongitude": 116.454288,
+    "destinationLatitude": 23.4888,
+    "distance": 21.555324519174516
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:09:02",
+    "sourceLongitude": 116.4719245,
+    "sourceLatitude": 23.50772117,
+    "destinationLongitude": 116.471888,
+    "destinationLatitude": 23.507534,
+    "distance": 21.061841660933077
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:06:02",
+    "sourceLongitude": 116.49240262,
+    "sourceLatitude": 23.53196962,
+    "destinationLongitude": 116.492384,
+    "destinationLatitude": 23.531918,
+    "distance": 6.024894873271659
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:04:00",
+    "sourceLongitude": 116.51232852,
+    "sourceLatitude": 23.544872,
+    "destinationLongitude": 116.512048,
+    "destinationLatitude": 23.544568,
+    "distance": 44.20391411550212
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:03:00",
+    "sourceLongitude": 116.52178012,
+    "sourceLatitude": 23.55161866,
+    "destinationLongitude": 116.5214,
+    "destinationLatitude": 23.551466,
+    "distance": 42.333581541105126
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 17:00:05",
+    "sourceLongitude": 116.54148247,
+    "sourceLatitude": 23.55725862,
+    "destinationLongitude": 116.54128,
+    "destinationLatitude": 23.557382,
+    "distance": 24.779687575514835
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:57:05",
+    "sourceLongitude": 116.55563953,
+    "sourceLatitude": 23.5272558,
+    "destinationLongitude": 116.555648,
+    "destinationLatitude": 23.527416,
+    "distance": 17.76345256224893
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:54:04",
+    "sourceLongitude": 116.57555335,
+    "sourceLatitude": 23.499465,
+    "destinationLongitude": 116.575264,
+    "destinationLatitude": 23.49975,
+    "distance": 43.24076036398969
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:51:04",
+    "sourceLongitude": 116.60143499,
+    "sourceLatitude": 23.47740393,
+    "destinationLongitude": 116.601168,
+    "destinationLatitude": 23.47765,
+    "distance": 38.556903656076415
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:48:07",
+    "sourceLongitude": 116.62495191,
+    "sourceLatitude": 23.45310534,
+    "destinationLongitude": 116.62472,
+    "destinationLatitude": 23.45315,
+    "distance": 24.206602539109333
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:45:06",
+    "sourceLongitude": 116.65715819,
+    "sourceLatitude": 23.43868152,
+    "destinationLongitude": 116.65688,
+    "destinationLatitude": 23.438868,
+    "distance": 35.13786314272443
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:42:00",
+    "sourceLongitude": 116.68853406,
+    "sourceLatitude": 23.43171342,
+    "destinationLongitude": 116.6884,
+    "destinationLatitude": 23.431632,
+    "distance": 16.40132074911456
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:39:06",
+    "sourceLongitude": 116.71848244,
+    "sourceLatitude": 23.4450284,
+    "destinationLongitude": 116.71812,
+    "destinationLatitude": 23.4448,
+    "distance": 44.84945788873426
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:36:05",
+    "sourceLongitude": 116.73227922,
+    "sourceLatitude": 23.46687469,
+    "destinationLongitude": 116.732296,
+    "destinationLatitude": 23.466682,
+    "distance": 21.409279264100334
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:33:59",
+    "sourceLongitude": 116.7286276,
+    "sourceLatitude": 23.48918204,
+    "destinationLongitude": 116.72868,
+    "destinationLatitude": 23.489032,
+    "distance": 17.457878014106182
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:33:01",
+    "sourceLongitude": 116.72301193,
+    "sourceLatitude": 23.49804044,
+    "destinationLongitude": 116.723112,
+    "destinationLatitude": 23.497784,
+    "distance": 30.184329129662917
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:30:04",
+    "sourceLongitude": 116.72343771,
+    "sourceLatitude": 23.53182353,
+    "destinationLongitude": 116.7234,
+    "destinationLatitude": 23.5314,
+    "distance": 47.064387052362
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:27:07",
+    "sourceLongitude": 116.72979613,
+    "sourceLatitude": 23.56402968,
+    "destinationLongitude": 116.729768,
+    "destinationLatitude": 23.5638,
+    "distance": 25.5991102744952
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:24:06",
+    "sourceLongitude": 116.72800861,
+    "sourceLatitude": 23.59692783,
+    "destinationLongitude": 116.72784,
+    "destinationLatitude": 23.596532,
+    "distance": 47.09600191169355
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:21:12",
+    "sourceLongitude": 116.74462236,
+    "sourceLatitude": 23.62556404,
+    "destinationLongitude": 116.744432,
+    "destinationLatitude": 23.625218,
+    "distance": 42.96666597200238
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:18:05",
+    "sourceLongitude": 116.77167341,
+    "sourceLatitude": 23.64807545,
+    "destinationLongitude": 116.771344,
+    "destinationLatitude": 23.647832,
+    "distance": 43.087512835913685
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:15:06",
+    "sourceLongitude": 116.80094748,
+    "sourceLatitude": 23.66375901,
+    "destinationLongitude": 116.800968,
+    "destinationLatitude": 23.663682,
+    "distance": 8.78225015045677
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:12:09",
+    "sourceLongitude": 116.82370584,
+    "sourceLatitude": 23.68475431,
+    "destinationLongitude": 116.823728,
+    "destinationLatitude": 23.684682,
+    "distance": 8.321449447783678
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:09:07",
+    "sourceLongitude": 116.85371087,
+    "sourceLatitude": 23.69668052,
+    "destinationLongitude": 116.8534,
+    "destinationLatitude": 23.6967,
+    "distance": 31.778589862986752
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:06:03",
+    "sourceLongitude": 116.88867856,
+    "sourceLatitude": 23.69020568,
+    "destinationLongitude": 116.888536,
+    "destinationLatitude": 23.690134,
+    "distance": 16.566348116723713
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:03:55",
+    "sourceLongitude": 116.91200073,
+    "sourceLatitude": 23.69227518,
+    "destinationLongitude": 116.911848,
+    "destinationLatitude": 23.692266,
+    "distance": 15.61042374763937
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:03:05",
+    "sourceLongitude": 116.92226564,
+    "sourceLatitude": 23.69208371,
+    "destinationLongitude": 116.92212,
+    "destinationLatitude": 23.692016,
+    "distance": 16.639822988387337
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 16:00:06",
+    "sourceLongitude": 116.95695644,
+    "sourceLatitude": 23.69841337,
+    "destinationLongitude": 116.95648,
+    "destinationLatitude": 23.6985,
+    "distance": 49.529108592298115
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:57:51",
+    "sourceLongitude": 116.97684938,
+    "sourceLatitude": 23.70407165,
+    "destinationLongitude": 116.976632,
+    "destinationLatitude": 23.70415,
+    "distance": 23.806896876574125
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:54:05",
+    "sourceLongitude": 117.01016834,
+    "sourceLatitude": 23.70285411,
+    "destinationLongitude": 117.00996,
+    "destinationLatitude": 23.70275,
+    "distance": 24.174471227732322
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:51:07",
+    "sourceLongitude": 117.04583998,
+    "sourceLatitude": 23.70631045,
+    "destinationLongitude": 117.045376,
+    "destinationLatitude": 23.706382,
+    "distance": 47.97628045691504
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:48:01",
+    "sourceLongitude": 117.08332867,
+    "sourceLatitude": 23.70436106,
+    "destinationLongitude": 117.082816,
+    "destinationLatitude": 23.704634,
+    "distance": 60.393449276225816
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:45:57",
+    "sourceLongitude": 117.10426828,
+    "sourceLatitude": 23.70057553,
+    "destinationLongitude": 117.10408,
+    "destinationLatitude": 23.700616,
+    "distance": 19.71807902220994
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:42:02",
+    "sourceLongitude": 117.12537284,
+    "sourceLatitude": 23.69827341,
+    "destinationLongitude": 117.125184,
+    "destinationLatitude": 23.69825,
+    "distance": 19.43307850609192
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:39:09",
+    "sourceLongitude": 117.16082233,
+    "sourceLatitude": 23.69256164,
+    "destinationLongitude": 117.160432,
+    "destinationLatitude": 23.6926,
+    "distance": 40.03660229715617
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:36:05",
+    "sourceLongitude": 117.19915555,
+    "sourceLatitude": 23.69116939,
+    "destinationLongitude": 117.198936,
+    "destinationLatitude": 23.691084,
+    "distance": 24.30778192972737
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:33:56",
+    "sourceLongitude": 117.22588405,
+    "sourceLatitude": 23.69555489,
+    "destinationLongitude": 117.22552,
+    "destinationLatitude": 23.69535,
+    "distance": 43.51475779000569
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:33:06",
+    "sourceLongitude": 117.23365813,
+    "sourceLatitude": 23.70223001,
+    "destinationLongitude": 117.233352,
+    "destinationLatitude": 23.701884,
+    "distance": 49.429717933607584
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:30:08",
+    "sourceLongitude": 117.25595542,
+    "sourceLatitude": 23.72565855,
+    "destinationLongitude": 117.255848,
+    "destinationLatitude": 23.725518,
+    "distance": 19.03390450601936
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:27:04",
+    "sourceLongitude": 117.28248132,
+    "sourceLatitude": 23.75001024,
+    "destinationLongitude": 117.282096,
+    "destinationLatitude": 23.74985,
+    "distance": 43.1053707430102
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:24:04",
+    "sourceLongitude": 117.31413386,
+    "sourceLatitude": 23.7669524,
+    "destinationLongitude": 117.313952,
+    "destinationLatitude": 23.767268,
+    "distance": 39.565716568706065
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:21:05",
+    "sourceLongitude": 117.34770595,
+    "sourceLatitude": 23.77947578,
+    "destinationLongitude": 117.347536,
+    "destinationLatitude": 23.779418,
+    "distance": 18.466357014785416
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:18:09",
+    "sourceLongitude": 117.36909238,
+    "sourceLatitude": 23.80458367,
+    "destinationLongitude": 117.36892,
+    "destinationLatitude": 23.804466,
+    "distance": 21.87293919538076
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:15:01",
+    "sourceLongitude": 117.38722278,
+    "sourceLatitude": 23.83582669,
+    "destinationLongitude": 117.387168,
+    "destinationLatitude": 23.83565,
+    "distance": 20.349721384131097
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:12:08",
+    "sourceLongitude": 117.38490888,
+    "sourceLatitude": 23.86774542,
+    "destinationLongitude": 117.38488,
+    "destinationLatitude": 23.867484,
+    "distance": 29.10295752469455
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:09:20",
+    "sourceLongitude": 117.38195262,
+    "sourceLatitude": 23.89948611,
+    "destinationLongitude": 117.381896,
+    "destinationLatitude": 23.8993,
+    "distance": 21.40411568862797
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:06:04",
+    "sourceLongitude": 117.39984391,
+    "sourceLatitude": 23.93302263,
+    "destinationLongitude": 117.39968,
+    "destinationLatitude": 23.932632,
+    "distance": 46.3715199941779
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:03:52",
+    "sourceLongitude": 117.41756848,
+    "sourceLatitude": 23.95236589,
+    "destinationLongitude": 117.417168,
+    "destinationLatitude": 23.952168,
+    "distance": 46.2832606278035
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:03:07",
+    "sourceLongitude": 117.42693643,
+    "sourceLatitude": 23.95546989,
+    "destinationLongitude": 117.426464,
+    "destinationLatitude": 23.955432,
+    "distance": 48.26989771330103
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 15:00:07",
+    "sourceLongitude": 117.45815427,
+    "sourceLatitude": 23.94082772,
+    "destinationLongitude": 117.458032,
+    "destinationLatitude": 23.940934,
+    "distance": 17.131486188531525
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:57:03",
+    "sourceLongitude": 117.49185884,
+    "sourceLatitude": 23.92829678,
+    "destinationLongitude": 117.491752,
+    "destinationLatitude": 23.9283,
+    "distance": 10.883019480722716
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:54:05",
+    "sourceLongitude": 117.52946474,
+    "sourceLatitude": 23.92821141,
+    "destinationLongitude": 117.529016,
+    "destinationLatitude": 23.9281,
+    "distance": 47.32249336180526
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:51:08",
+    "sourceLongitude": 117.56597695,
+    "sourceLatitude": 23.93253816,
+    "destinationLongitude": 117.565784,
+    "destinationLatitude": 23.9324,
+    "distance": 24.90009443629411
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:48:08",
+    "sourceLongitude": 117.59443142,
+    "sourceLatitude": 23.95404825,
+    "destinationLongitude": 117.594088,
+    "destinationLatitude": 23.953866,
+    "distance": 40.365579888452174
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:45:00",
+    "sourceLongitude": 117.62989243,
+    "sourceLatitude": 23.96596715,
+    "destinationLongitude": 117.629648,
+    "destinationLatitude": 23.966034,
+    "distance": 25.956160369756542
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:42:07",
+    "sourceLongitude": 117.65973043,
+    "sourceLatitude": 23.98015967,
+    "destinationLongitude": 117.659448,
+    "destinationLatitude": 23.979834,
+    "distance": 46.121548370118816
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:39:07",
+    "sourceLongitude": 117.67812378,
+    "sourceLatitude": 24.01231045,
+    "destinationLongitude": 117.677944,
+    "destinationLatitude": 24.012132,
+    "distance": 26.9298524525825
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:36:05",
+    "sourceLongitude": 117.70565108,
+    "sourceLatitude": 24.0380992,
+    "destinationLongitude": 117.705448,
+    "destinationLatitude": 24.037716,
+    "distance": 47.20305196215307
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:33:54",
+    "sourceLongitude": 117.71756963,
+    "sourceLatitude": 24.06313473,
+    "destinationLongitude": 117.717384,
+    "destinationLatitude": 24.062718,
+    "distance": 49.868352905285136
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:33:04",
+    "sourceLongitude": 117.72198531,
+    "sourceLatitude": 24.07224335,
+    "destinationLongitude": 117.721832,
+    "destinationLatitude": 24.072082,
+    "distance": 23.715977923359624
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:30:06",
+    "sourceLongitude": 117.73389448,
+    "sourceLatitude": 24.10605345,
+    "destinationLongitude": 117.733704,
+    "destinationLatitude": 24.105734,
+    "distance": 40.33526873491518
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:24:48",
+    "sourceLongitude": 117.74038102,
+    "sourceLatitude": 24.11778331,
+    "destinationLongitude": 117.740368,
+    "destinationLatitude": 24.117816,
+    "distance": 3.855085892514222
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:21:26",
+    "sourceLongitude": 117.74040665,
+    "sourceLatitude": 24.11781467,
+    "destinationLongitude": 117.740368,
+    "destinationLatitude": 24.117816,
+    "distance": 3.931878044949623
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:18:27",
+    "sourceLongitude": 117.74040776,
+    "sourceLatitude": 24.11782293,
+    "destinationLongitude": 117.740368,
+    "destinationLatitude": 24.117816,
+    "distance": 4.114193593023912
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:15:01",
+    "sourceLongitude": 117.74681057,
+    "sourceLatitude": 24.12629178,
+    "destinationLongitude": 117.746736,
+    "destinationLatitude": 24.12615,
+    "distance": 17.437355640849734
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:12:58",
+    "sourceLongitude": 117.76710526,
+    "sourceLatitude": 24.14047124,
+    "destinationLongitude": 117.766912,
+    "destinationLatitude": 24.140484,
+    "distance": 19.69392014286775
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:09:09",
+    "sourceLongitude": 117.80266101,
+    "sourceLatitude": 24.16074926,
+    "destinationLongitude": 117.802696,
+    "destinationLatitude": 24.160734,
+    "distance": 3.937121439381036
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:06:04",
+    "sourceLongitude": 117.82966986,
+    "sourceLatitude": 24.18346777,
+    "destinationLongitude": 117.829512,
+    "destinationLatitude": 24.183282,
+    "distance": 26.08918331670517
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:03:54",
+    "sourceLongitude": 117.84713042,
+    "sourceLatitude": 24.20232411,
+    "destinationLongitude": 117.846904,
+    "destinationLatitude": 24.2018,
+    "distance": 62.44227298104559
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 14:03:00",
+    "sourceLongitude": 117.8529369,
+    "sourceLatitude": 24.21074734,
+    "destinationLongitude": 117.85284,
+    "destinationLatitude": 24.21055,
+    "distance": 23.971921878671974
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 13:57:06",
+    "sourceLongitude": 117.83638415,
+    "sourceLatitude": 24.27302673,
+    "destinationLongitude": 117.836232,
+    "destinationLatitude": 24.272632,
+    "distance": 46.37027289463207
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 13:54:02",
+    "sourceLongitude": 117.8514517,
+    "sourceLatitude": 24.30363939,
+    "destinationLongitude": 117.851248,
+    "destinationLatitude": 24.303368,
+    "distance": 36.48524034552926
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 13:48:08",
+    "sourceLongitude": 117.87248772,
+    "sourceLatitude": 24.34401267,
+    "destinationLongitude": 117.87252,
+    "destinationLatitude": 24.3442,
+    "distance": 21.00625869850746
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 13:45:45",
+    "sourceLongitude": 117.90113284,
+    "sourceLatitude": 24.34399456,
+    "destinationLongitude": 117.901152,
+    "destinationLatitude": 24.344034,
+    "distance": 4.781661391879367
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 13:24:13",
+    "sourceLongitude": 117.95280171,
+    "sourceLatitude": 24.48559558,
+    "destinationLongitude": 117.952528,
+    "destinationLatitude": 24.485532,
+    "distance": 28.62482098194624
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 13:21:10",
+    "sourceLongitude": 117.95943666,
+    "sourceLatitude": 24.48262683,
+    "destinationLongitude": 117.959352,
+    "destinationLatitude": 24.48275,
+    "distance": 16.1176524970839
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 13:18:05",
+    "sourceLongitude": 117.96981451,
+    "sourceLatitude": 24.47566088,
+    "destinationLongitude": 117.96972,
+    "destinationLatitude": 24.47555,
+    "distance": 15.57665121205352
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 13:15:32",
+    "sourceLongitude": 117.9664223,
+    "sourceLatitude": 24.4642281,
+    "destinationLongitude": 117.966432,
+    "destinationLatitude": 24.464318,
+    "distance": 10.006213938659691
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 13:03:04",
+    "sourceLongitude": 117.96637927,
+    "sourceLatitude": 24.4640689,
+    "destinationLongitude": 117.966416,
+    "destinationLatitude": 24.464184,
+    "distance": 13.281755897865303
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 13:03:04",
+    "sourceLongitude": 117.96637927,
+    "sourceLatitude": 24.4640689,
+    "destinationLongitude": 117.966416,
+    "destinationLatitude": 24.464184,
+    "distance": 13.281755897865303
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 13:00:06",
+    "sourceLongitude": 117.96647511,
+    "sourceLatitude": 24.46421357,
+    "destinationLongitude": 117.966416,
+    "destinationLatitude": 24.464184,
+    "distance": 6.829428569432666
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 12:57:03",
+    "sourceLongitude": 117.96742482,
+    "sourceLatitude": 24.46612859,
+    "destinationLongitude": 117.967344,
+    "destinationLatitude": 24.466116,
+    "distance": 8.311511782447637
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 12:54:30",
+    "sourceLongitude": 117.96730776,
+    "sourceLatitude": 24.46603362,
+    "destinationLongitude": 117.967344,
+    "destinationLatitude": 24.466116,
+    "distance": 9.836728769135917
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 12:51:30",
+    "sourceLongitude": 117.9689694,
+    "sourceLatitude": 24.46560148,
+    "destinationLongitude": 117.969016,
+    "destinationLatitude": 24.465518,
+    "distance": 10.383683414952133
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 12:48:30",
+    "sourceLongitude": 117.96896191,
+    "sourceLatitude": 24.46558123,
+    "destinationLongitude": 117.969016,
+    "destinationLatitude": 24.465518,
+    "distance": 8.895120420001481
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 12:45:32",
+    "sourceLongitude": 117.96890153,
+    "sourceLatitude": 24.46552036,
+    "destinationLongitude": 117.969016,
+    "destinationLatitude": 24.465518,
+    "distance": 11.60818797781892
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 12:42:31",
+    "sourceLongitude": 117.96894081,
+    "sourceLatitude": 24.46556238,
+    "destinationLongitude": 117.969016,
+    "destinationLatitude": 24.465518,
+    "distance": 9.07049317342283
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 12:36:31",
+    "sourceLongitude": 117.9687589,
+    "sourceLatitude": 24.46535273,
+    "destinationLongitude": 117.968848,
+    "destinationLatitude": 24.465416,
+    "distance": 11.432928694432363
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 12:33:31",
+    "sourceLongitude": 117.96875986,
+    "sourceLatitude": 24.46535284,
+    "destinationLongitude": 117.968848,
+    "destinationLatitude": 24.465416,
+    "distance": 11.348671955732202
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 12:33:31",
+    "sourceLongitude": 117.96875986,
+    "sourceLatitude": 24.46535284,
+    "destinationLongitude": 117.968848,
+    "destinationLatitude": 24.465416,
+    "distance": 11.348671955732202
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 12:30:31",
+    "sourceLongitude": 117.96876266,
+    "sourceLatitude": 24.46535072,
+    "destinationLongitude": 117.968848,
+    "destinationLatitude": 24.465416,
+    "distance": 11.275655484166512
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 12:27:30",
+    "sourceLongitude": 117.96876159,
+    "sourceLatitude": 24.46535013,
+    "destinationLongitude": 117.968848,
+    "destinationLatitude": 24.465416,
+    "distance": 11.400817720034551
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 12:15:33",
+    "sourceLongitude": 117.96876507,
+    "sourceLatitude": 24.46535311,
+    "destinationLongitude": 117.968848,
+    "destinationLatitude": 24.465416,
+    "distance": 10.918512306585106
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 12:09:30",
+    "sourceLongitude": 117.96876196,
+    "sourceLatitude": 24.46535724,
+    "destinationLongitude": 117.968848,
+    "destinationLatitude": 24.465416,
+    "distance": 10.883525022079311
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 12:06:33",
+    "sourceLongitude": 117.96876369,
+    "sourceLatitude": 24.46535231,
+    "destinationLongitude": 117.968848,
+    "destinationLatitude": 24.465416,
+    "distance": 11.082800875964045
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 12:03:31",
+    "sourceLongitude": 117.96876036,
+    "sourceLatitude": 24.46535427,
+    "destinationLongitude": 117.968848,
+    "destinationLatitude": 24.465416,
+    "distance": 11.211505313731642
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 12:00:31",
+    "sourceLongitude": 117.96876044,
+    "sourceLatitude": 24.46535389,
+    "destinationLongitude": 117.968848,
+    "destinationLatitude": 24.465416,
+    "distance": 11.230812672609998
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 11:57:33",
+    "sourceLongitude": 117.96875702,
+    "sourceLatitude": 24.46535203,
+    "destinationLongitude": 117.968848,
+    "destinationLatitude": 24.465416,
+    "distance": 11.631181595325307
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 11:54:31",
+    "sourceLongitude": 117.96875276,
+    "sourceLatitude": 24.46535489,
+    "destinationLongitude": 117.968848,
+    "destinationLatitude": 24.465416,
+    "distance": 11.791916214958828
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 11:51:30",
+    "sourceLongitude": 117.9687494,
+    "sourceLatitude": 24.46535422,
+    "destinationLongitude": 117.968848,
+    "destinationLatitude": 24.465416,
+    "distance": 12.114199069648658
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 11:48:31",
+    "sourceLongitude": 117.96871113,
+    "sourceLatitude": 24.46536875,
+    "destinationLongitude": 117.968848,
+    "destinationLatitude": 24.465416,
+    "distance": 14.830395962741346
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 11:45:30",
+    "sourceLongitude": 117.96956681,
+    "sourceLatitude": 24.46517933,
+    "destinationLongitude": 117.968848,
+    "destinationLatitude": 24.465416,
+    "distance": 77.44644592328484
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 11:18:26",
+    "sourceLongitude": 117.96882775,
+    "sourceLatitude": 24.4653902,
+    "destinationLongitude": 117.968848,
+    "destinationLatitude": 24.465416,
+    "distance": 3.518728513517633
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 11:09:03",
+    "sourceLongitude": 117.96873461,
+    "sourceLatitude": 24.46506228,
+    "destinationLongitude": 117.968752,
+    "destinationLatitude": 24.46505,
+    "distance": 2.226760159235843
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 11:06:00",
+    "sourceLongitude": 117.96886344,
+    "sourceLatitude": 24.46528156,
+    "destinationLongitude": 117.968624,
+    "destinationLatitude": 24.46515,
+    "distance": 28.31305113316183
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 11:03:00",
+    "sourceLongitude": 117.96909373,
+    "sourceLatitude": 24.46580306,
+    "destinationLongitude": 117.96896,
+    "destinationLatitude": 24.465766,
+    "distance": 14.165651243750798
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 11:00:02",
+    "sourceLongitude": 117.96909181,
+    "sourceLatitude": 24.46580282,
+    "destinationLongitude": 117.96896,
+    "destinationLatitude": 24.465766,
+    "distance": 13.971680377177478
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:57:00",
+    "sourceLongitude": 117.96910596,
+    "sourceLatitude": 24.46580772,
+    "destinationLongitude": 117.96896,
+    "destinationLatitude": 24.465766,
+    "distance": 15.502514902926144
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:54:01",
+    "sourceLongitude": 117.96714534,
+    "sourceLatitude": 24.46590746,
+    "destinationLongitude": 117.96716,
+    "destinationLatitude": 24.466116,
+    "distance": 23.146698762783085
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:51:01",
+    "sourceLongitude": 117.96669062,
+    "sourceLatitude": 24.46416283,
+    "destinationLongitude": 117.96664,
+    "destinationLatitude": 24.46405,
+    "distance": 13.510295216917601
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:48:03",
+    "sourceLongitude": 117.96804068,
+    "sourceLatitude": 24.47055171,
+    "destinationLongitude": 117.968016,
+    "destinationLatitude": 24.470266,
+    "distance": 31.745438244559374
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:45:42",
+    "sourceLongitude": 117.97163644,
+    "sourceLatitude": 24.47956159,
+    "destinationLongitude": 117.971552,
+    "destinationLatitude": 24.479534,
+    "distance": 9.088953423843657
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:42:43",
+    "sourceLongitude": 117.97280067,
+    "sourceLatitude": 24.47917438,
+    "destinationLongitude": 117.9728,
+    "destinationLatitude": 24.479134,
+    "distance": 4.473214060745708
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:39:05",
+    "sourceLongitude": 117.9857018,
+    "sourceLatitude": 24.48455452,
+    "destinationLongitude": 117.985536,
+    "destinationLatitude": 24.484234,
+    "distance": 39.27965632811638
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:36:06",
+    "sourceLongitude": 117.9832186,
+    "sourceLatitude": 24.5021054,
+    "destinationLongitude": 117.983328,
+    "destinationLatitude": 24.501916,
+    "distance": 23.728940398136746
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:33:52",
+    "sourceLongitude": 117.98081573,
+    "sourceLatitude": 24.51273103,
+    "destinationLongitude": 117.980936,
+    "destinationLatitude": 24.512666,
+    "distance": 14.158012447928519
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:33:11",
+    "sourceLongitude": 117.97493315,
+    "sourceLatitude": 24.51511228,
+    "destinationLongitude": 117.975136,
+    "destinationLatitude": 24.515,
+    "distance": 24.026626354420774
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:30:01",
+    "sourceLongitude": 117.94625023,
+    "sourceLatitude": 24.52289985,
+    "destinationLongitude": 117.94652,
+    "destinationLatitude": 24.522666,
+    "distance": 37.660135599866805
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:27:08",
+    "sourceLongitude": 117.93095641,
+    "sourceLatitude": 24.53313712,
+    "destinationLongitude": 117.931152,
+    "destinationLatitude": 24.5328,
+    "distance": 42.27490265998269
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:24:07",
+    "sourceLongitude": 117.90758126,
+    "sourceLatitude": 24.55420347,
+    "destinationLongitude": 117.907712,
+    "destinationLatitude": 24.55415,
+    "distance": 14.509298578506284
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:21:04",
+    "sourceLongitude": 117.93342904,
+    "sourceLatitude": 24.57154352,
+    "destinationLongitude": 117.932968,
+    "destinationLatitude": 24.57135,
+    "distance": 51.386522818092445
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:18:05",
+    "sourceLongitude": 117.97009487,
+    "sourceLatitude": 24.58027532,
+    "destinationLongitude": 117.969848,
+    "destinationLatitude": 24.580184,
+    "distance": 26.97397225674266
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:15:05",
+    "sourceLongitude": 118.0040264,
+    "sourceLatitude": 24.59685298,
+    "destinationLongitude": 118.003752,
+    "destinationLatitude": 24.596734,
+    "distance": 30.75702758951554
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:12:05",
+    "sourceLongitude": 118.04029396,
+    "sourceLatitude": 24.61055101,
+    "destinationLongitude": 118.0398,
+    "destinationLatitude": 24.610384,
+    "distance": 53.33252778491943
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:09:02",
+    "sourceLongitude": 118.07169997,
+    "sourceLatitude": 24.63192922,
+    "destinationLongitude": 118.071384,
+    "destinationLatitude": 24.631532,
+    "distance": 54.40017545844023
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:06:01",
+    "sourceLongitude": 118.100935,
+    "sourceLatitude": 24.65605592,
+    "destinationLongitude": 118.100584,
+    "destinationLatitude": 24.655716,
+    "distance": 51.77042539512907
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:03:53",
+    "sourceLongitude": 118.12175995,
+    "sourceLatitude": 24.67200983,
+    "destinationLongitude": 118.12148,
+    "destinationLatitude": 24.671934,
+    "distance": 29.55428111416305
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:03:03",
+    "sourceLongitude": 118.13153894,
+    "sourceLatitude": 24.67469117,
+    "destinationLongitude": 118.131152,
+    "destinationLatitude": 24.67455,
+    "distance": 42.17023183765943
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 10:00:09",
+    "sourceLongitude": 118.16588548,
+    "sourceLatitude": 24.68647748,
+    "destinationLongitude": 118.165568,
+    "destinationLatitude": 24.6864,
+    "distance": 33.25695296407737
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:57:14",
+    "sourceLongitude": 118.19170678,
+    "sourceLatitude": 24.69042692,
+    "destinationLongitude": 118.191648,
+    "destinationLatitude": 24.690434,
+    "distance": 6.000100167766419
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:54:44",
+    "sourceLongitude": 118.19171006,
+    "sourceLatitude": 24.69042329,
+    "destinationLongitude": 118.191648,
+    "destinationLatitude": 24.690434,
+    "distance": 6.391628879637564
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:51:46",
+    "sourceLongitude": 118.19172614,
+    "sourceLatitude": 24.69041191,
+    "destinationLongitude": 118.191648,
+    "destinationLatitude": 24.690434,
+    "distance": 8.277796160060321
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:48:46",
+    "sourceLongitude": 118.191707,
+    "sourceLatitude": 24.69043721,
+    "destinationLongitude": 118.191648,
+    "destinationLatitude": 24.690434,
+    "distance": 5.981469305462056
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:45:04",
+    "sourceLongitude": 118.20958387,
+    "sourceLatitude": 24.68911805,
+    "destinationLongitude": 118.209152,
+    "destinationLatitude": 24.689034,
+    "distance": 44.686977352483225
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:42:09",
+    "sourceLongitude": 118.24737096,
+    "sourceLatitude": 24.6892515,
+    "destinationLongitude": 118.247032,
+    "destinationLatitude": 24.6894,
+    "distance": 38.043505823609344
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:39:05",
+    "sourceLongitude": 118.28305232,
+    "sourceLatitude": 24.68123902,
+    "destinationLongitude": 118.2826,
+    "destinationLatitude": 24.681182,
+    "distance": 46.212504034898565
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:36:02",
+    "sourceLongitude": 118.32068723,
+    "sourceLatitude": 24.68357478,
+    "destinationLongitude": 118.32048,
+    "destinationLatitude": 24.683532,
+    "distance": 21.50181243671741
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:33:58",
+    "sourceLongitude": 118.34351651,
+    "sourceLatitude": 24.69448044,
+    "destinationLongitude": 118.343296,
+    "destinationLatitude": 24.6944,
+    "distance": 24.028353820220115
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:33:04",
+    "sourceLongitude": 118.3552197,
+    "sourceLatitude": 24.69590973,
+    "destinationLongitude": 118.3548,
+    "destinationLatitude": 24.695834,
+    "distance": 43.29290619024174
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:30:00",
+    "sourceLongitude": 118.38931512,
+    "sourceLatitude": 24.70729251,
+    "destinationLongitude": 118.388984,
+    "destinationLatitude": 24.70705,
+    "distance": 42.944189978135995
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:27:02",
+    "sourceLongitude": 118.41638779,
+    "sourceLatitude": 24.73079624,
+    "destinationLongitude": 118.416016,
+    "destinationLatitude": 24.730516,
+    "distance": 48.76867766317436
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:24:03",
+    "sourceLongitude": 118.44434962,
+    "sourceLatitude": 24.75587102,
+    "destinationLongitude": 118.44424,
+    "destinationLatitude": 24.755716,
+    "distance": 20.44017456322338
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:21:00",
+    "sourceLongitude": 118.46989273,
+    "sourceLatitude": 24.7827622,
+    "destinationLongitude": 118.469704,
+    "destinationLatitude": 24.782734,
+    "distance": 19.33961033615359
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:18:02",
+    "sourceLongitude": 118.50151174,
+    "sourceLatitude": 24.80504424,
+    "destinationLongitude": 118.501352,
+    "destinationLatitude": 24.8049,
+    "distance": 22.71867741671965
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:15:07",
+    "sourceLongitude": 118.53348586,
+    "sourceLatitude": 24.82561928,
+    "destinationLongitude": 118.533304,
+    "destinationLatitude": 24.82555,
+    "distance": 19.922020570217516
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:12:01",
+    "sourceLongitude": 118.56553899,
+    "sourceLatitude": 24.84636993,
+    "destinationLongitude": 118.565296,
+    "destinationLatitude": 24.846234,
+    "distance": 28.808375783692064
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:09:00",
+    "sourceLongitude": 118.59664569,
+    "sourceLatitude": 24.87068806,
+    "destinationLongitude": 118.59652,
+    "destinationLatitude": 24.870634,
+    "distance": 14.042500875142505
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:06:15",
+    "sourceLongitude": 118.61721328,
+    "sourceLatitude": 24.89851242,
+    "destinationLongitude": 118.626848,
+    "destinationLatitude": 24.905332,
+    "distance": 1232.1331210152368
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:03:52",
+    "sourceLongitude": 118.6403128,
+    "sourceLatitude": 24.91663928,
+    "destinationLongitude": 118.640032,
+    "destinationLatitude": 24.916384,
+    "distance": 40.05318982882164
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:03:04",
+    "sourceLongitude": 118.64598256,
+    "sourceLatitude": 24.92475727,
+    "destinationLongitude": 118.6458,
+    "destinationLatitude": 24.92455,
+    "distance": 29.44833663455163
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 09:00:02",
+    "sourceLongitude": 118.65902982,
+    "sourceLatitude": 24.95929721,
+    "destinationLongitude": 118.659048,
+    "destinationLatitude": 24.958816,
+    "distance": 53.33633295710602
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 08:57:03",
+    "sourceLongitude": 118.67270874,
+    "sourceLatitude": 24.99391179,
+    "destinationLongitude": 118.672584,
+    "destinationLatitude": 24.993784,
+    "distance": 18.946497984923592
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 08:54:03",
+    "sourceLongitude": 118.68814241,
+    "sourceLatitude": 25.02879455,
+    "destinationLongitude": 118.688104,
+    "destinationLatitude": 25.02855,
+    "distance": 27.36558319113654
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 08:51:00",
+    "sourceLongitude": 118.71243827,
+    "sourceLatitude": 25.05962493,
+    "destinationLongitude": 118.712168,
+    "destinationLatitude": 25.059284,
+    "distance": 46.58289503735878
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 08:48:07",
+    "sourceLongitude": 118.74161236,
+    "sourceLatitude": 25.08291154,
+    "destinationLongitude": 118.74128,
+    "destinationLatitude": 25.082684,
+    "distance": 41.94675412063937
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 08:42:06",
+    "sourceLongitude": 118.80819935,
+    "sourceLatitude": 25.1177086,
+    "destinationLongitude": 118.807832,
+    "destinationLatitude": 25.117484,
+    "distance": 44.627518669617075
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 08:33:43",
+    "sourceLongitude": 118.82194648,
+    "sourceLatitude": 25.1394643,
+    "destinationLongitude": 118.821952,
+    "destinationLatitude": 25.13945,
+    "distance": 1.6790279500467844
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 08:33:43",
+    "sourceLongitude": 118.82194648,
+    "sourceLatitude": 25.1394643,
+    "destinationLongitude": 118.821952,
+    "destinationLatitude": 25.13945,
+    "distance": 1.6790279500467844
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 08:06:15",
+    "sourceLongitude": 118.82196555,
+    "sourceLatitude": 25.1394865,
+    "destinationLongitude": 118.821952,
+    "destinationLatitude": 25.13945,
+    "distance": 4.267904598347528
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:54:19",
+    "sourceLongitude": 118.82195393,
+    "sourceLatitude": 25.13946147,
+    "destinationLongitude": 118.821952,
+    "destinationLatitude": 25.13945,
+    "distance": 1.2854066932727848
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:51:05",
+    "sourceLongitude": 118.82231071,
+    "sourceLatitude": 25.15450086,
+    "destinationLongitude": 118.822264,
+    "destinationLatitude": 25.154066,
+    "distance": 48.401360267489
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:48:07",
+    "sourceLongitude": 118.84427507,
+    "sourceLatitude": 25.18045733,
+    "destinationLongitude": 118.844,
+    "destinationLatitude": 25.180184,
+    "distance": 41.05604503202939
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:45:06",
+    "sourceLongitude": 118.86585844,
+    "sourceLatitude": 25.21027883,
+    "destinationLongitude": 118.865784,
+    "destinationLatitude": 25.210084,
+    "distance": 22.849121769178584
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:42:03",
+    "sourceLongitude": 118.86961796,
+    "sourceLatitude": 25.24563525,
+    "destinationLongitude": 118.86948,
+    "destinationLatitude": 25.245216,
+    "distance": 48.478333289125686
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:36:06",
+    "sourceLongitude": 118.92822042,
+    "sourceLatitude": 25.2863292,
+    "destinationLongitude": 118.928016,
+    "destinationLatitude": 25.286182,
+    "distance": 26.263482421145365
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:33:53",
+    "sourceLongitude": 118.95481471,
+    "sourceLatitude": 25.29774889,
+    "destinationLongitude": 118.954664,
+    "destinationLatitude": 25.297666,
+    "distance": 17.73883863273725
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:33:05",
+    "sourceLongitude": 118.96458595,
+    "sourceLatitude": 25.30023854,
+    "destinationLongitude": 118.964384,
+    "destinationLatitude": 25.3002,
+    "distance": 20.780355423261188
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:30:00",
+    "sourceLongitude": 119.00047727,
+    "sourceLatitude": 25.3049139,
+    "destinationLongitude": 119.0004,
+    "destinationLatitude": 25.30465,
+    "distance": 30.251966329232797
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:27:02",
+    "sourceLongitude": 119.01690628,
+    "sourceLatitude": 25.33621071,
+    "destinationLongitude": 119.01688,
+    "destinationLatitude": 25.336068,
+    "distance": 16.028971133018352
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:24:05",
+    "sourceLongitude": 119.04677639,
+    "sourceLatitude": 25.35590736,
+    "destinationLongitude": 119.046632,
+    "destinationLatitude": 25.355716,
+    "distance": 25.702377116945293
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:21:01",
+    "sourceLongitude": 119.07114066,
+    "sourceLatitude": 25.38428409,
+    "destinationLongitude": 119.070984,
+    "destinationLatitude": 25.38415,
+    "distance": 21.660917140708246
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:18:00",
+    "sourceLongitude": 119.09455854,
+    "sourceLatitude": 25.41429126,
+    "destinationLongitude": 119.0946,
+    "destinationLatitude": 25.414216,
+    "distance": 9.322488540377227
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:15:03",
+    "sourceLongitude": 119.12012851,
+    "sourceLatitude": 25.43862441,
+    "destinationLongitude": 119.119848,
+    "destinationLatitude": 25.43855,
+    "distance": 29.395584459351607
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:12:07",
+    "sourceLongitude": 119.15477648,
+    "sourceLatitude": 25.45292149,
+    "destinationLongitude": 119.154504,
+    "destinationLatitude": 25.452734,
+    "distance": 34.386650515997886
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:09:02",
+    "sourceLongitude": 119.18945392,
+    "sourceLatitude": 25.47083558,
+    "destinationLongitude": 119.18912,
+    "destinationLatitude": 25.4706,
+    "distance": 42.52854593395929
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:06:01",
+    "sourceLongitude": 119.2236453,
+    "sourceLatitude": 25.48792018,
+    "destinationLongitude": 119.2234,
+    "destinationLatitude": 25.487734,
+    "distance": 32.15159533568014
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:03:53",
+    "sourceLongitude": 119.24074606,
+    "sourceLatitude": 25.50622447,
+    "destinationLongitude": 119.240672,
+    "destinationLatitude": 25.505984,
+    "distance": 27.660284418358813
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:03:06",
+    "sourceLongitude": 119.24488693,
+    "sourceLatitude": 25.51488258,
+    "destinationLongitude": 119.244648,
+    "destinationLatitude": 25.514566,
+    "distance": 42.5071814856067
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 07:00:09",
+    "sourceLongitude": 119.26063407,
+    "sourceLatitude": 25.54536857,
+    "destinationLongitude": 119.260536,
+    "destinationLatitude": 25.545166,
+    "distance": 24.5099245216276
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:57:08",
+    "sourceLongitude": 119.27451327,
+    "sourceLatitude": 25.57804781,
+    "destinationLongitude": 119.274552,
+    "destinationLatitude": 25.578034,
+    "distance": 4.18124866845022
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:51:00",
+    "sourceLongitude": 119.27898813,
+    "sourceLatitude": 25.64614242,
+    "destinationLongitude": 119.278952,
+    "destinationLatitude": 25.6459,
+    "distance": 27.099867860679527
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:48:07",
+    "sourceLongitude": 119.29786264,
+    "sourceLatitude": 25.67457834,
+    "destinationLongitude": 119.297752,
+    "destinationLatitude": 25.674384,
+    "distance": 24.225942433584333
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:45:07",
+    "sourceLongitude": 119.30339185,
+    "sourceLatitude": 25.70871038,
+    "destinationLongitude": 119.303216,
+    "destinationLatitude": 25.708518,
+    "distance": 27.671432650398273
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:42:01",
+    "sourceLongitude": 119.303282,
+    "sourceLatitude": 25.74546775,
+    "destinationLongitude": 119.303256,
+    "destinationLatitude": 25.745434,
+    "distance": 4.559043389228379
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:39:00",
+    "sourceLongitude": 119.29509873,
+    "sourceLatitude": 25.77651531,
+    "destinationLongitude": 119.295048,
+    "destinationLatitude": 25.7763,
+    "distance": 24.38975675052573
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:36:01",
+    "sourceLongitude": 119.30519963,
+    "sourceLatitude": 25.8098365,
+    "destinationLongitude": 119.305168,
+    "destinationLatitude": 25.809566,
+    "distance": 30.13475330679356
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:33:57",
+    "sourceLongitude": 119.30614348,
+    "sourceLatitude": 25.83241033,
+    "destinationLongitude": 119.306184,
+    "destinationLatitude": 25.832384,
+    "distance": 5.001275254414874
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:33:12",
+    "sourceLongitude": 119.30615043,
+    "sourceLatitude": 25.84000473,
+    "destinationLongitude": 119.306112,
+    "destinationLatitude": 25.8399,
+    "distance": 12.225510428235621
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:30:03",
+    "sourceLongitude": 119.32440141,
+    "sourceLatitude": 25.85978042,
+    "destinationLongitude": 119.324096,
+    "destinationLatitude": 25.859566,
+    "distance": 38.74858788029922
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:27:08",
+    "sourceLongitude": 119.35398821,
+    "sourceLatitude": 25.87517909,
+    "destinationLongitude": 119.353984,
+    "destinationLatitude": 25.875184,
+    "distance": 0.6884224666439788
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:24:05",
+    "sourceLongitude": 119.37927094,
+    "sourceLatitude": 25.89858754,
+    "destinationLongitude": 119.379032,
+    "destinationLatitude": 25.898284,
+    "distance": 41.28075952432891
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:21:06",
+    "sourceLongitude": 119.38685299,
+    "sourceLatitude": 25.92815074,
+    "destinationLongitude": 119.386632,
+    "destinationLatitude": 25.92805,
+    "distance": 24.792583661013047
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:18:08",
+    "sourceLongitude": 119.41419561,
+    "sourceLatitude": 25.9449607,
+    "destinationLongitude": 119.414184,
+    "destinationLatitude": 25.944866,
+    "distance": 10.55579607753063
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:15:04",
+    "sourceLongitude": 119.44750892,
+    "sourceLatitude": 25.95719971,
+    "destinationLongitude": 119.447304,
+    "destinationLatitude": 25.957166,
+    "distance": 20.860580025652215
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:12:09",
+    "sourceLongitude": 119.47899673,
+    "sourceLatitude": 25.97193342,
+    "destinationLongitude": 119.478864,
+    "destinationLatitude": 25.971782,
+    "distance": 21.40297785312462
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:09:03",
+    "sourceLongitude": 119.46399307,
+    "sourceLatitude": 25.99460498,
+    "destinationLongitude": 119.464016,
+    "destinationLatitude": 25.994566,
+    "distance": 4.890835311378812
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:03:07",
+    "sourceLongitude": 119.49344647,
+    "sourceLatitude": 26.04747505,
+    "destinationLongitude": 119.4934,
+    "destinationLatitude": 26.0473,
+    "distance": 19.943381677432775
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 06:00:08",
+    "sourceLongitude": 119.49869384,
+    "sourceLatitude": 26.07875721,
+    "destinationLongitude": 119.498448,
+    "destinationLatitude": 26.078484,
+    "distance": 39.00236705025897
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 05:57:07",
+    "sourceLongitude": 119.52148759,
+    "sourceLatitude": 26.10383067,
+    "destinationLongitude": 119.521472,
+    "destinationLatitude": 26.103816,
+    "distance": 2.252434894353336
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 05:54:10",
+    "sourceLongitude": 119.53945213,
+    "sourceLatitude": 26.12974506,
+    "destinationLongitude": 119.539368,
+    "destinationLatitude": 26.12955,
+    "distance": 23.190760448586303
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 05:51:58",
+    "sourceLongitude": 119.55340409,
+    "sourceLatitude": 26.15010703,
+    "destinationLongitude": 119.553416,
+    "destinationLatitude": 26.150084,
+    "distance": 2.8157337229675417
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 05:48:09",
+    "sourceLongitude": 119.54835604,
+    "sourceLatitude": 26.18623914,
+    "destinationLongitude": 119.548344,
+    "destinationLatitude": 26.1862,
+    "distance": 4.500267016983577
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 05:04:15",
+    "sourceLongitude": 119.60688325,
+    "sourceLatitude": 26.47830548,
+    "destinationLongitude": 119.606936,
+    "destinationLatitude": 26.478318,
+    "distance": 5.439486328177666
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 04:58:36",
+    "sourceLongitude": 119.62201712,
+    "sourceLatitude": 26.53658996,
+    "destinationLongitude": 119.622184,
+    "destinationLatitude": 26.536234,
+    "distance": 42.8022112358896
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 04:57:07",
+    "sourceLongitude": 119.61423782,
+    "sourceLatitude": 26.54941813,
+    "destinationLongitude": 119.61432,
+    "destinationLatitude": 26.549418,
+    "distance": 8.189037354858838
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 04:54:11",
+    "sourceLongitude": 119.59988137,
+    "sourceLatitude": 26.57632055,
+    "destinationLongitude": 119.600048,
+    "destinationLatitude": 26.576482,
+    "distance": 24.404060943620387
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 04:18:05",
+    "sourceLongitude": 119.7502473,
+    "sourceLatitude": 26.83803857,
+    "destinationLongitude": 119.750056,
+    "destinationLatitude": 26.838084,
+    "distance": 19.669580330590623
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-24 04:15:05",
+    "sourceLongitude": 119.78178787,
+    "sourceLatitude": 26.84267763,
+    "destinationLongitude": 119.781712,
+    "destinationLatitude": 26.842734,
+    "distance": 9.791636626337038
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 23:03:48",
+    "sourceLongitude": 121.11465654,
+    "sourceLatitude": 28.28563089,
+    "destinationLongitude": 121.114616,
+    "destinationLatitude": 28.28555,
+    "distance": 9.807143777522294
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 23:03:08",
+    "sourceLongitude": 121.11560505,
+    "sourceLatitude": 28.2903768,
+    "destinationLongitude": 121.115584,
+    "destinationLatitude": 28.290266,
+    "distance": 12.451729836659972
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 23:00:15",
+    "sourceLongitude": 121.11649705,
+    "sourceLatitude": 28.29497528,
+    "destinationLongitude": 121.116472,
+    "destinationLatitude": 28.29495,
+    "distance": 3.7265413896684607
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:57:45",
+    "sourceLongitude": 121.11649736,
+    "sourceLatitude": 28.29497613,
+    "destinationLongitude": 121.116472,
+    "destinationLatitude": 28.29495,
+    "distance": 3.817614812264912
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:54:46",
+    "sourceLongitude": 121.11649702,
+    "sourceLatitude": 28.29497657,
+    "destinationLongitude": 121.116472,
+    "destinationLatitude": 28.29495,
+    "distance": 3.833295936705396
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:51:04",
+    "sourceLongitude": 121.11840394,
+    "sourceLatitude": 28.29955613,
+    "destinationLongitude": 121.118368,
+    "destinationLatitude": 28.29955,
+    "distance": 3.590163052491351
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:48:09",
+    "sourceLongitude": 121.12494306,
+    "sourceLatitude": 28.32543268,
+    "destinationLongitude": 121.124784,
+    "destinationLatitude": 28.325134,
+    "distance": 36.59219286201852
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:45:01",
+    "sourceLongitude": 121.1438676,
+    "sourceLatitude": 28.35167331,
+    "destinationLongitude": 121.143816,
+    "destinationLatitude": 28.351316,
+    "distance": 39.92077066550212
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:43:07",
+    "sourceLongitude": 121.14875506,
+    "sourceLatitude": 28.36960002,
+    "destinationLongitude": 121.148512,
+    "destinationLatitude": 28.369418,
+    "distance": 31.218514576794387
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:39:01",
+    "sourceLongitude": 121.18523185,
+    "sourceLatitude": 28.39153082,
+    "destinationLongitude": 121.185048,
+    "destinationLatitude": 28.391568,
+    "distance": 18.483191743663912
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:38:31",
+    "sourceLongitude": 121.19129539,
+    "sourceLatitude": 28.39289667,
+    "destinationLongitude": 121.191048,
+    "destinationLatitude": 28.39285,
+    "distance": 24.79048355437272
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:31:03",
+    "sourceLongitude": 121.23854986,
+    "sourceLatitude": 28.44492466,
+    "destinationLongitude": 121.238368,
+    "destinationLatitude": 28.444784,
+    "distance": 23.671817276605836
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:30:02",
+    "sourceLongitude": 121.24125851,
+    "sourceLatitude": 28.45409409,
+    "destinationLongitude": 121.2412,
+    "destinationLatitude": 28.453916,
+    "distance": 20.552314309680003
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:27:04",
+    "sourceLongitude": 121.24310937,
+    "sourceLatitude": 28.4850361,
+    "destinationLongitude": 121.243104,
+    "destinationLatitude": 28.485016,
+    "distance": 2.2888462539886896
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:24:05",
+    "sourceLongitude": 121.24627292,
+    "sourceLatitude": 28.51608353,
+    "destinationLongitude": 121.246184,
+    "destinationLatitude": 28.515882,
+    "distance": 23.971301379346585
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:21:09",
+    "sourceLongitude": 121.24385732,
+    "sourceLatitude": 28.54599998,
+    "destinationLongitude": 121.243848,
+    "destinationLatitude": 28.545766,
+    "distance": 25.947642759660166
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:18:10",
+    "sourceLongitude": 121.23887507,
+    "sourceLatitude": 28.57779454,
+    "destinationLongitude": 121.238856,
+    "destinationLatitude": 28.577584,
+    "distance": 23.408367472001466
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:15:11",
+    "sourceLongitude": 121.23956306,
+    "sourceLatitude": 28.60981605,
+    "destinationLongitude": 121.23952,
+    "destinationLatitude": 28.609466,
+    "distance": 39.02372362341955
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:12:03",
+    "sourceLongitude": 121.23631387,
+    "sourceLatitude": 28.64355348,
+    "destinationLongitude": 121.236312,
+    "destinationLatitude": 28.6434,
+    "distance": 17.01115645692431
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:09:02",
+    "sourceLongitude": 121.23863791,
+    "sourceLatitude": 28.67516599,
+    "destinationLongitude": 121.2384,
+    "destinationLatitude": 28.674668,
+    "distance": 59.891127055207384
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:07:33",
+    "sourceLongitude": 121.24039202,
+    "sourceLatitude": 28.69108337,
+    "destinationLongitude": 121.240368,
+    "destinationLatitude": 28.691134,
+    "distance": 6.082569644273591
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:03:53",
+    "sourceLongitude": 121.2376355,
+    "sourceLatitude": 28.7256701,
+    "destinationLongitude": 121.237664,
+    "destinationLatitude": 28.725482,
+    "distance": 21.03246867519723
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:03:08",
+    "sourceLongitude": 121.23575291,
+    "sourceLatitude": 28.7333017,
+    "destinationLongitude": 121.235888,
+    "destinationLatitude": 28.73295,
+    "distance": 41.1527134135927
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 22:00:10",
+    "sourceLongitude": 121.23120979,
+    "sourceLatitude": 28.76359047,
+    "destinationLongitude": 121.23116,
+    "destinationLatitude": 28.763234,
+    "distance": 39.806338780955194
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 21:57:04",
+    "sourceLongitude": 121.23457337,
+    "sourceLatitude": 28.79753559,
+    "destinationLongitude": 121.234632,
+    "destinationLatitude": 28.797184,
+    "distance": 39.38572575753136
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 21:54:53",
+    "sourceLongitude": 121.22952468,
+    "sourceLatitude": 28.8199286,
+    "destinationLongitude": 121.229512,
+    "destinationLatitude": 28.8198,
+    "distance": 14.30673285248164
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 21:51:05",
+    "sourceLongitude": 121.22279654,
+    "sourceLatitude": 28.85538384,
+    "destinationLongitude": 121.222832,
+    "destinationLatitude": 28.855234,
+    "distance": 16.963874461592265
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 21:48:01",
+    "sourceLongitude": 121.22463106,
+    "sourceLatitude": 28.88971006,
+    "destinationLongitude": 121.224552,
+    "destinationLatitude": 28.88935,
+    "distance": 40.64515387051057
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 21:45:07",
+    "sourceLongitude": 121.22343641,
+    "sourceLatitude": 28.92138708,
+    "destinationLongitude": 121.223448,
+    "destinationLatitude": 28.921182,
+    "distance": 22.758012187730078
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 21:42:09",
+    "sourceLongitude": 121.21932693,
+    "sourceLatitude": 28.95111212,
+    "destinationLongitude": 121.219464,
+    "destinationLatitude": 28.95095,
+    "distance": 22.392381639419398
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 21:39:55",
+    "sourceLongitude": 121.21877996,
+    "sourceLatitude": 28.97335943,
+    "destinationLongitude": 121.218696,
+    "destinationLatitude": 28.97325,
+    "distance": 14.631071732169989
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 21:33:43",
+    "sourceLongitude": 121.22543971,
+    "sourceLatitude": 29.02333156,
+    "destinationLongitude": 121.225416,
+    "destinationLatitude": 29.023184,
+    "distance": 16.517276581374105
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 21:33:08",
+    "sourceLongitude": 121.22554192,
+    "sourceLatitude": 29.02711699,
+    "destinationLongitude": 121.225704,
+    "destinationLatitude": 29.0424,
+    "distance": 1693.9864373171447
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 21:30:10",
+    "sourceLongitude": 121.22583282,
+    "sourceLatitude": 29.04729534,
+    "destinationLongitude": 121.225936,
+    "destinationLatitude": 29.04705,
+    "distance": 28.990093538491994
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 21:27:01",
+    "sourceLongitude": 121.1949798,
+    "sourceLatitude": 29.06414605,
+    "destinationLongitude": 121.195264,
+    "destinationLatitude": 29.064,
+    "distance": 32.06166253251106
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 21:24:05",
+    "sourceLongitude": 121.16283437,
+    "sourceLatitude": 29.08065311,
+    "destinationLongitude": 121.163256,
+    "destinationLatitude": 29.0805,
+    "distance": 44.42067433920864
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 21:21:04",
+    "sourceLongitude": 121.13535944,
+    "sourceLatitude": 29.1024501,
+    "destinationLongitude": 121.135568,
+    "destinationLatitude": 29.102534,
+    "distance": 22.330215516716418
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 21:18:06",
+    "sourceLongitude": 121.10057702,
+    "sourceLatitude": 29.11453498,
+    "destinationLongitude": 121.100768,
+    "destinationLatitude": 29.114666,
+    "distance": 23.588400835596854
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 21:15:13",
+    "sourceLongitude": 121.07535682,
+    "sourceLatitude": 29.13389001,
+    "destinationLongitude": 121.07568,
+    "destinationLatitude": 29.133734,
+    "distance": 35.88995400203597
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 20:57:46",
+    "sourceLongitude": 121.074293,
+    "sourceLatitude": 29.1348,
+    "destinationLongitude": 121.074504,
+    "destinationLatitude": 29.134884,
+    "distance": 22.545113084276206
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 20:51:48",
+    "sourceLongitude": 121.07455739,
+    "sourceLatitude": 29.13494141,
+    "destinationLongitude": 121.074504,
+    "destinationLatitude": 29.134884,
+    "distance": 8.21483937661051
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 20:48:09",
+    "sourceLongitude": 121.06454073,
+    "sourceLatitude": 29.14731943,
+    "destinationLongitude": 121.064848,
+    "destinationLatitude": 29.147118,
+    "distance": 37.31378804451095
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 20:42:06",
+    "sourceLongitude": 120.99625152,
+    "sourceLatitude": 29.16830666,
+    "destinationLongitude": 120.996384,
+    "destinationLatitude": 29.168066,
+    "distance": 29.624619129209485
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 20:39:03",
+    "sourceLongitude": 120.97135206,
+    "sourceLatitude": 29.19361987,
+    "destinationLongitude": 120.9716,
+    "destinationLatitude": 29.193318,
+    "distance": 41.242950848616914
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 20:36:04",
+    "sourceLongitude": 120.94788758,
+    "sourceLatitude": 29.21821742,
+    "destinationLongitude": 120.948016,
+    "destinationLatitude": 29.21805,
+    "distance": 22.366736081770767
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 20:33:04",
+    "sourceLongitude": 120.9227502,
+    "sourceLatitude": 29.24082345,
+    "destinationLongitude": 120.92288,
+    "destinationLatitude": 29.240534,
+    "distance": 34.474757775522825
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 20:30:11",
+    "sourceLongitude": 120.91262667,
+    "sourceLatitude": 29.26076907,
+    "destinationLongitude": 120.912616,
+    "destinationLatitude": 29.260684,
+    "distance": 9.486023490510371
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:57:08",
+    "sourceLongitude": 120.78160544,
+    "sourceLatitude": 30.03809827,
+    "destinationLongitude": 120.781544,
+    "destinationLatitude": 30.037768,
+    "distance": 37.08792137689549
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:51:06",
+    "sourceLongitude": 120.77974804,
+    "sourceLatitude": 30.1008835,
+    "destinationLongitude": 120.779888,
+    "destinationLatitude": 30.100634,
+    "distance": 30.772814159420456
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:48:05",
+    "sourceLongitude": 120.77567742,
+    "sourceLatitude": 30.13445157,
+    "destinationLongitude": 120.775768,
+    "destinationLatitude": 30.134184,
+    "distance": 30.91884788928809
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:45:00",
+    "sourceLongitude": 120.77352716,
+    "sourceLatitude": 30.1686336,
+    "destinationLongitude": 120.773552,
+    "destinationLatitude": 30.168382,
+    "distance": 27.993629904773137
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:42:09",
+    "sourceLongitude": 120.76991101,
+    "sourceLatitude": 30.19954448,
+    "destinationLongitude": 120.769936,
+    "destinationLatitude": 30.1993,
+    "distance": 27.208647518490558
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:39:10",
+    "sourceLongitude": 120.77529336,
+    "sourceLatitude": 30.23105475,
+    "destinationLongitude": 120.775232,
+    "destinationLatitude": 30.230966,
+    "distance": 11.47538514688917
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:38:59",
+    "sourceLongitude": 120.77553372,
+    "sourceLatitude": 30.23308052,
+    "destinationLongitude": 120.775448,
+    "destinationLatitude": 30.232816,
+    "distance": 30.462550741381506
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:38:04",
+    "sourceLongitude": 120.77662016,
+    "sourceLatitude": 30.24292588,
+    "destinationLongitude": 120.776584,
+    "destinationLatitude": 30.242634,
+    "distance": 32.54345335118564
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:36:03",
+    "sourceLongitude": 120.77763693,
+    "sourceLatitude": 30.26543467,
+    "destinationLongitude": 120.777688,
+    "destinationLatitude": 30.265034,
+    "distance": 44.688086815146235
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:35:04",
+    "sourceLongitude": 120.77693023,
+    "sourceLatitude": 30.27658328,
+    "destinationLongitude": 120.77692,
+    "destinationLatitude": 30.2764,
+    "distance": 20.341720664007823
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:27:05",
+    "sourceLongitude": 120.78928607,
+    "sourceLatitude": 30.36242662,
+    "destinationLongitude": 120.7892,
+    "destinationLatitude": 30.362034,
+    "distance": 44.30478753632468
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:26:05",
+    "sourceLongitude": 120.78940233,
+    "sourceLatitude": 30.37362606,
+    "destinationLongitude": 120.789368,
+    "destinationLatitude": 30.37335,
+    "distance": 30.78106444719285
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:20:01",
+    "sourceLongitude": 120.78613945,
+    "sourceLatitude": 30.43879469,
+    "destinationLongitude": 120.786184,
+    "destinationLatitude": 30.438534,
+    "distance": 29.215183733937877
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:17:08",
+    "sourceLongitude": 120.81176016,
+    "sourceLatitude": 30.45899565,
+    "destinationLongitude": 120.811344,
+    "destinationLatitude": 30.458616,
+    "distance": 58.04159300656799
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:14:05",
+    "sourceLongitude": 120.83711847,
+    "sourceLatitude": 30.48326251,
+    "destinationLongitude": 120.836784,
+    "destinationLatitude": 30.48345,
+    "distance": 38.25376523550315
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:08:05",
+    "sourceLongitude": 120.8837034,
+    "sourceLatitude": 30.53591323,
+    "destinationLongitude": 120.883568,
+    "destinationLatitude": 30.53565,
+    "distance": 31.944085278788194
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 18:02:07",
+    "sourceLongitude": 120.93478638,
+    "sourceLatitude": 30.58275577,
+    "destinationLongitude": 120.934584,
+    "destinationLatitude": 30.58245,
+    "distance": 39.06300757658796
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 17:38:31",
+    "sourceLongitude": 121.17156143,
+    "sourceLatitude": 30.69943531,
+    "destinationLongitude": 121.171528,
+    "destinationLatitude": 30.69945,
+    "distance": 3.592974864167403
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 17:32:27",
+    "sourceLongitude": 121.17206138,
+    "sourceLatitude": 30.70063015,
+    "destinationLongitude": 121.172136,
+    "destinationLatitude": 30.70065,
+    "distance": 7.479753190781281
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 17:29:55",
+    "sourceLongitude": 121.17206186,
+    "sourceLatitude": 30.70063029,
+    "destinationLongitude": 121.172136,
+    "destinationLatitude": 30.70065,
+    "distance": 7.4312374768055856
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 17:26:56",
+    "sourceLongitude": 121.17206084,
+    "sourceLatitude": 30.70063068,
+    "destinationLongitude": 121.172136,
+    "destinationLatitude": 30.70065,
+    "distance": 7.5122477307108495
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 17:23:58",
+    "sourceLongitude": 121.172343,
+    "sourceLatitude": 30.700733,
+    "destinationLongitude": 121.172136,
+    "destinationLatitude": 30.70065,
+    "distance": 21.86172462516942
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 17:08:06",
+    "sourceLongitude": 121.17208753,
+    "sourceLatitude": 30.70067224,
+    "destinationLongitude": 121.172168,
+    "destinationLatitude": 30.70065,
+    "distance": 8.093822966800596
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 17:08:06",
+    "sourceLongitude": 121.17208753,
+    "sourceLatitude": 30.70067224,
+    "destinationLongitude": 121.172168,
+    "destinationLatitude": 30.70065,
+    "distance": 8.093822966800596
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 17:05:07",
+    "sourceLongitude": 121.19097928,
+    "sourceLatitude": 30.70954963,
+    "destinationLongitude": 121.1906,
+    "destinationLatitude": 30.709334,
+    "distance": 43.49152962956581
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 17:02:07",
+    "sourceLongitude": 121.22827975,
+    "sourceLatitude": 30.72038078,
+    "destinationLongitude": 121.227768,
+    "destinationLatitude": 30.720266,
+    "distance": 50.64119593354996
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:59:03",
+    "sourceLongitude": 121.26331567,
+    "sourceLatitude": 30.73069208,
+    "destinationLongitude": 121.26324,
+    "destinationLatitude": 30.73065,
+    "distance": 8.618793109544752
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:56:08",
+    "sourceLongitude": 121.26847828,
+    "sourceLatitude": 30.73268721,
+    "destinationLongitude": 121.268136,
+    "destinationLatitude": 30.732532,
+    "distance": 37.021946342966
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:53:04",
+    "sourceLongitude": 121.29056212,
+    "sourceLatitude": 30.76012171,
+    "destinationLongitude": 121.290232,
+    "destinationLatitude": 30.759782,
+    "distance": 49.1671270027204
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:50:07",
+    "sourceLongitude": 121.32366043,
+    "sourceLatitude": 30.77748587,
+    "destinationLongitude": 121.323688,
+    "destinationLatitude": 30.777482,
+    "distance": 2.673794869193779
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:47:06",
+    "sourceLongitude": 121.35566238,
+    "sourceLatitude": 30.79757119,
+    "destinationLongitude": 121.355488,
+    "destinationLatitude": 30.797434,
+    "distance": 22.58012180911864
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:44:08",
+    "sourceLongitude": 121.39090806,
+    "sourceLatitude": 30.81034685,
+    "destinationLongitude": 121.390728,
+    "destinationLatitude": 30.810234,
+    "distance": 21.293654312513674
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:41:08",
+    "sourceLongitude": 121.42841059,
+    "sourceLatitude": 30.8221455,
+    "destinationLongitude": 121.428088,
+    "destinationLatitude": 30.821966,
+    "distance": 36.725020253273655
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:38:54",
+    "sourceLongitude": 121.4496876,
+    "sourceLatitude": 30.83913167,
+    "destinationLongitude": 121.449304,
+    "destinationLatitude": 30.838868,
+    "distance": 46.916745561963886
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:38:04",
+    "sourceLongitude": 121.45875834,
+    "sourceLatitude": 30.84447416,
+    "destinationLongitude": 121.4584,
+    "destinationLatitude": 30.844284,
+    "distance": 40.24277331078873
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:35:09",
+    "sourceLongitude": 121.48704421,
+    "sourceLatitude": 30.86208886,
+    "destinationLongitude": 121.486984,
+    "destinationLatitude": 30.86165,
+    "distance": 48.994726359637845
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:32:02",
+    "sourceLongitude": 121.48361829,
+    "sourceLatitude": 30.8969725,
+    "destinationLongitude": 121.483648,
+    "destinationLatitude": 30.89675,
+    "distance": 24.83106126201075
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:29:06",
+    "sourceLongitude": 121.49788522,
+    "sourceLatitude": 30.91068356,
+    "destinationLongitude": 121.497768,
+    "destinationLatitude": 30.91065,
+    "distance": 11.807011755393559
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:26:00",
+    "sourceLongitude": 121.52036475,
+    "sourceLatitude": 30.9179454,
+    "destinationLongitude": 121.52032,
+    "destinationLatitude": 30.9178,
+    "distance": 16.67807295155991
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:23:09",
+    "sourceLongitude": 121.51909625,
+    "sourceLatitude": 30.931953,
+    "destinationLongitude": 121.519096,
+    "destinationLatitude": 30.93165,
+    "distance": 33.59310124183551
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:20:17",
+    "sourceLongitude": 121.51802676,
+    "sourceLatitude": 30.94929581,
+    "destinationLongitude": 121.517952,
+    "destinationLatitude": 30.94915,
+    "distance": 17.673811266027933
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:17:12",
+    "sourceLongitude": 121.51780934,
+    "sourceLatitude": 30.96188063,
+    "destinationLongitude": 121.5178,
+    "destinationLatitude": 30.961684,
+    "distance": 21.818390019147877
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:14:11",
+    "sourceLongitude": 121.51253908,
+    "sourceLatitude": 30.97700014,
+    "destinationLongitude": 121.51252,
+    "destinationLatitude": 30.9768,
+    "distance": 22.264067121956284
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:11:03",
+    "sourceLongitude": 121.51124759,
+    "sourceLatitude": 30.98637061,
+    "destinationLongitude": 121.511144,
+    "destinationLatitude": 30.986218,
+    "distance": 19.600590648210698
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:08:27",
+    "sourceLongitude": 121.51076774,
+    "sourceLatitude": 30.99883486,
+    "destinationLongitude": 121.51068,
+    "destinationLatitude": 30.998534,
+    "distance": 34.392636473456186
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:07:58",
+    "sourceLongitude": 121.5104067,
+    "sourceLatitude": 31.00056045,
+    "destinationLongitude": 121.510352,
+    "destinationLatitude": 31.000482,
+    "distance": 10.145979997386043
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:07:15",
+    "sourceLongitude": 121.50933481,
+    "sourceLatitude": 31.00636969,
+    "destinationLongitude": 121.509272,
+    "destinationLatitude": 31.006216,
+    "distance": 18.06446312311729
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-23 16:01:16",
+    "sourceLongitude": 121.509081,
+    "sourceLatitude": 31.035216,
+    "destinationLongitude": 121.509088,
+    "destinationLatitude": 31.033716,
+    "distance": 166.30642795716085
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 20:40:09",
+    "sourceLongitude": 121.37629362,
+    "sourceLatitude": 31.26583494,
+    "destinationLongitude": 121.376232,
+    "destinationLatitude": 31.26585,
+    "distance": 6.101506488482329
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 20:37:37",
+    "sourceLongitude": 121.37648064,
+    "sourceLatitude": 31.2655881,
+    "destinationLongitude": 121.376232,
+    "destinationLatitude": 31.26585,
+    "distance": 37.46927393162376
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 20:25:21",
+    "sourceLongitude": 121.37572981,
+    "sourceLatitude": 31.26446411,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 13.361209952769553
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 20:22:19",
+    "sourceLongitude": 121.37571047,
+    "sourceLatitude": 31.26448438,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 11.497638551993372
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 20:19:20",
+    "sourceLongitude": 121.37576588,
+    "sourceLatitude": 31.26471571,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 14.751147634208325
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 19:52:46",
+    "sourceLongitude": 121.37596757,
+    "sourceLatitude": 31.26474794,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 27.995902829217755
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 19:49:45",
+    "sourceLongitude": 121.37595636,
+    "sourceLatitude": 31.26471714,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 25.039224119785523
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 19:46:45",
+    "sourceLongitude": 121.37595226,
+    "sourceLatitude": 31.26470982,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 24.249075569376668
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 19:40:46",
+    "sourceLongitude": 121.37599294,
+    "sourceLatitude": 31.26465635,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 25.029211112636208
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 19:37:45",
+    "sourceLongitude": 121.37581089,
+    "sourceLatitude": 31.26455059,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 7.36926538427454
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 19:34:45",
+    "sourceLongitude": 121.37604589,
+    "sourceLatitude": 31.26456735,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 28.811075105424035
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 19:34:45",
+    "sourceLongitude": 121.37604589,
+    "sourceLatitude": 31.26456735,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 28.811075105424035
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 19:22:46",
+    "sourceLongitude": 121.37592287,
+    "sourceLatitude": 31.26465653,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 18.838175044747935
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 19:19:47",
+    "sourceLongitude": 121.37598415,
+    "sourceLatitude": 31.26465515,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 24.19399248432964
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 19:16:46",
+    "sourceLongitude": 121.37610923,
+    "sourceLatitude": 31.26478901,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 41.55254134726281
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 19:13:45",
+    "sourceLongitude": 121.37606591,
+    "sourceLatitude": 31.26500299,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 55.65986494932607
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 19:07:51",
+    "sourceLongitude": 121.37592257,
+    "sourceLatitude": 31.26461949,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 17.456204057977708
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 17:52:21",
+    "sourceLongitude": 121.37583168,
+    "sourceLatitude": 31.26481042,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 26.45653219469737
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 17:49:23",
+    "sourceLongitude": 121.37582544,
+    "sourceLatitude": 31.26473498,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 18.449385092470607
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 17:46:21",
+    "sourceLongitude": 121.375819,
+    "sourceLatitude": 31.26474686,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 19.418421591855047
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 17:43:22",
+    "sourceLongitude": 121.37581692,
+    "sourceLatitude": 31.26474875,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 19.54215881525161
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 17:40:23",
+    "sourceLongitude": 121.37578491,
+    "sourceLatitude": 31.26477138,
+    "destinationLongitude": 121.375744,
+    "destinationLatitude": 31.264584,
+    "distance": 21.13776810306113
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 17:31:49",
+    "sourceLongitude": 121.37575726,
+    "sourceLatitude": 31.26470278,
+    "destinationLongitude": 121.375904,
+    "destinationLatitude": 31.2646,
+    "distance": 18.032565660223167
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 17:28:49",
+    "sourceLongitude": 121.37575064,
+    "sourceLatitude": 31.26468594,
+    "destinationLongitude": 121.375904,
+    "destinationLatitude": 31.2646,
+    "distance": 17.43920117992132
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 16:43:11",
+    "sourceLongitude": 121.37606031,
+    "sourceLatitude": 31.26466993,
+    "destinationLongitude": 121.375904,
+    "destinationLatitude": 31.2646,
+    "distance": 16.78496145912188
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 16:34:15",
+    "sourceLongitude": 121.37601039,
+    "sourceLatitude": 31.26471092,
+    "destinationLongitude": 121.375904,
+    "destinationLatitude": 31.2646,
+    "distance": 15.934633693232716
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 16:34:15",
+    "sourceLongitude": 121.37601039,
+    "sourceLatitude": 31.26471092,
+    "destinationLongitude": 121.375904,
+    "destinationLatitude": 31.2646,
+    "distance": 15.934633693232716
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 16:31:15",
+    "sourceLongitude": 121.37600857,
+    "sourceLatitude": 31.26471794,
+    "destinationLongitude": 121.375904,
+    "destinationLatitude": 31.2646,
+    "distance": 16.437150189590263
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 16:28:17",
+    "sourceLongitude": 121.37652718,
+    "sourceLatitude": 31.26566458,
+    "destinationLongitude": 121.37652,
+    "destinationLatitude": 31.26565,
+    "distance": 1.755224252916933
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 16:25:10",
+    "sourceLongitude": 121.37101699,
+    "sourceLatitude": 31.2636042,
+    "destinationLongitude": 121.371016,
+    "destinationLatitude": 31.263634,
+    "distance": 3.3053904684243407
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 16:22:24",
+    "sourceLongitude": 121.36979229,
+    "sourceLatitude": 31.25867997,
+    "destinationLongitude": 121.36988,
+    "destinationLatitude": 31.258716,
+    "distance": 9.259984097544598
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 16:19:32",
+    "sourceLongitude": 121.36726505,
+    "sourceLatitude": 31.25329441,
+    "destinationLongitude": 121.367216,
+    "destinationLatitude": 31.253268,
+    "distance": 5.513831771703826
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 16:16:03",
+    "sourceLongitude": 121.3582291,
+    "sourceLatitude": 31.25556204,
+    "destinationLongitude": 121.358104,
+    "destinationLatitude": 31.255684,
+    "distance": 18.02305890312673
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 16:13:35",
+    "sourceLongitude": 121.35526483,
+    "sourceLatitude": 31.25646758,
+    "destinationLongitude": 121.355344,
+    "destinationLatitude": 31.256416,
+    "distance": 9.464070741378137
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 16:10:23",
+    "sourceLongitude": 121.34633719,
+    "sourceLatitude": 31.24903264,
+    "destinationLongitude": 121.346336,
+    "destinationLatitude": 31.248966,
+    "distance": 7.389496415400615
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 16:07:16",
+    "sourceLongitude": 121.3429986,
+    "sourceLatitude": 31.23499522,
+    "destinationLongitude": 121.343016,
+    "destinationLatitude": 31.234934,
+    "distance": 6.9871648183691395
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 16:04:13",
+    "sourceLongitude": 121.34335841,
+    "sourceLatitude": 31.23072472,
+    "destinationLongitude": 121.343368,
+    "destinationLatitude": 31.230766,
+    "distance": 4.667162433310562
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 16:01:16",
+    "sourceLongitude": 121.34365246,
+    "sourceLatitude": 31.22681946,
+    "destinationLongitude": 121.34368,
+    "destinationLatitude": 31.226834,
+    "distance": 3.0795989193043485
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:58:03",
+    "sourceLongitude": 121.34830807,
+    "sourceLatitude": 31.21529277,
+    "destinationLongitude": 121.348264,
+    "destinationLatitude": 31.215334,
+    "distance": 6.207385741573365
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:55:08",
+    "sourceLongitude": 121.35302945,
+    "sourceLatitude": 31.19068555,
+    "destinationLongitude": 121.352952,
+    "destinationLatitude": 31.19075,
+    "distance": 10.27405870429496
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:52:06",
+    "sourceLongitude": 121.35501296,
+    "sourceLatitude": 31.17879749,
+    "destinationLongitude": 121.35492,
+    "destinationLatitude": 31.178816,
+    "distance": 9.096006640268865
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:49:19",
+    "sourceLongitude": 121.35941909,
+    "sourceLatitude": 31.16751233,
+    "destinationLongitude": 121.359384,
+    "destinationLatitude": 31.16755,
+    "distance": 5.351184445064996
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:46:06",
+    "sourceLongitude": 121.36193797,
+    "sourceLatitude": 31.16143356,
+    "destinationLongitude": 121.361744,
+    "destinationLatitude": 31.161632,
+    "distance": 28.74162495202279
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:43:42",
+    "sourceLongitude": 121.3697336,
+    "sourceLatitude": 31.14550261,
+    "destinationLongitude": 121.369696,
+    "destinationLatitude": 31.145584,
+    "distance": 9.710097560350997
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:40:00",
+    "sourceLongitude": 121.38198335,
+    "sourceLatitude": 31.12441187,
+    "destinationLongitude": 121.381896,
+    "destinationLatitude": 31.124532,
+    "distance": 15.710150981588814
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:37:08",
+    "sourceLongitude": 121.3656227,
+    "sourceLatitude": 31.11902913,
+    "destinationLongitude": 121.365672,
+    "destinationLatitude": 31.11905,
+    "distance": 5.24095383583207
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:34:51",
+    "sourceLongitude": 121.35450337,
+    "sourceLatitude": 31.11561498,
+    "destinationLongitude": 121.35488,
+    "destinationLatitude": 31.1157,
+    "distance": 37.14233253872304
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:34:04",
+    "sourceLongitude": 121.34651195,
+    "sourceLatitude": 31.11196297,
+    "destinationLongitude": 121.346816,
+    "destinationLatitude": 31.11205,
+    "distance": 30.567011970546165
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:31:07",
+    "sourceLongitude": 121.32136533,
+    "sourceLatitude": 31.08812772,
+    "destinationLongitude": 121.321664,
+    "destinationLatitude": 31.0884,
+    "distance": 41.51440276897329
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:28:51",
+    "sourceLongitude": 121.31181851,
+    "sourceLatitude": 31.07766206,
+    "destinationLongitude": 121.311896,
+    "destinationLatitude": 31.077734,
+    "distance": 10.876473509622036
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:25:03",
+    "sourceLongitude": 121.29784284,
+    "sourceLatitude": 31.06091763,
+    "destinationLongitude": 121.298032,
+    "destinationLatitude": 31.061068,
+    "distance": 24.57421281161484
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:22:07",
+    "sourceLongitude": 121.26763909,
+    "sourceLatitude": 31.04060479,
+    "destinationLongitude": 121.268064,
+    "destinationLatitude": 31.040782,
+    "distance": 45.07118630723908
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:19:07",
+    "sourceLongitude": 121.23101521,
+    "sourceLatitude": 31.02312511,
+    "destinationLongitude": 121.231416,
+    "destinationLatitude": 31.023166,
+    "distance": 38.535501755667795
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:16:02",
+    "sourceLongitude": 121.190037,
+    "sourceLatitude": 31.02227965,
+    "destinationLongitude": 121.190432,
+    "destinationLatitude": 31.022118,
+    "distance": 41.7571144509865
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:13:04",
+    "sourceLongitude": 121.15292097,
+    "sourceLatitude": 31.01496714,
+    "destinationLongitude": 121.153056,
+    "destinationLatitude": 31.014984,
+    "distance": 13.028716083182674
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:10:01",
+    "sourceLongitude": 121.12129172,
+    "sourceLatitude": 31.00009262,
+    "destinationLongitude": 121.121648,
+    "destinationLatitude": 31.000334,
+    "distance": 43.28935454717446
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:07:06",
+    "sourceLongitude": 121.0997764,
+    "sourceLatitude": 30.97803939,
+    "destinationLongitude": 121.099872,
+    "destinationLatitude": 30.978184,
+    "distance": 18.45125359361021
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:04:52",
+    "sourceLongitude": 121.09211248,
+    "sourceLatitude": 30.95405797,
+    "destinationLongitude": 121.092288,
+    "destinationLatitude": 30.954434,
+    "distance": 44.93679065011963
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:04:07",
+    "sourceLongitude": 121.08775427,
+    "sourceLatitude": 30.94550971,
+    "destinationLongitude": 121.087968,
+    "destinationLatitude": 30.94585,
+    "distance": 42.90090530456972
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 15:01:02",
+    "sourceLongitude": 121.06112808,
+    "sourceLatitude": 30.91591783,
+    "destinationLongitude": 121.061344,
+    "destinationLatitude": 30.916018,
+    "distance": 23.437530818534547
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 14:58:00",
+    "sourceLongitude": 121.03272238,
+    "sourceLatitude": 30.89449271,
+    "destinationLongitude": 121.032712,
+    "destinationLatitude": 30.894516,
+    "distance": 2.7662583116848602
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 14:55:00",
+    "sourceLongitude": 121.03088907,
+    "sourceLatitude": 30.89230445,
+    "destinationLongitude": 121.030952,
+    "destinationLatitude": 30.892282,
+    "distance": 6.5113152656993725
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 14:52:07",
+    "sourceLongitude": 121.00835042,
+    "sourceLatitude": 30.87154953,
+    "destinationLongitude": 121.00868,
+    "destinationLatitude": 30.871834,
+    "distance": 44.58787230563701
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 14:49:04",
+    "sourceLongitude": 120.98157419,
+    "sourceLatitude": 30.84222147,
+    "destinationLongitude": 120.981736,
+    "destinationLatitude": 30.8423,
+    "distance": 17.759445114559963
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 14:46:06",
+    "sourceLongitude": 120.96026207,
+    "sourceLatitude": 30.81355051,
+    "destinationLongitude": 120.960368,
+    "destinationLatitude": 30.813632,
+    "distance": 13.578236161712736
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 14:43:05",
+    "sourceLongitude": 120.9455639,
+    "sourceLatitude": 30.79898552,
+    "destinationLongitude": 120.945896,
+    "destinationLatitude": 30.799232,
+    "distance": 41.91539020350358
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 14:40:08",
+    "sourceLongitude": 120.91483341,
+    "sourceLatitude": 30.77567035,
+    "destinationLongitude": 120.915048,
+    "destinationLatitude": 30.775766,
+    "distance": 23.11769175160839
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 14:37:05",
+    "sourceLongitude": 120.87946442,
+    "sourceLatitude": 30.75300922,
+    "destinationLongitude": 120.87988,
+    "destinationLatitude": 30.7533,
+    "distance": 51.21147602469778
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 14:34:06",
+    "sourceLongitude": 120.84888272,
+    "sourceLatitude": 30.72759231,
+    "destinationLongitude": 120.849096,
+    "destinationLatitude": 30.727784,
+    "distance": 29.476902706169227
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 14:31:05",
+    "sourceLongitude": 120.82011327,
+    "sourceLatitude": 30.70022509,
+    "destinationLongitude": 120.820416,
+    "destinationLatitude": 30.700284,
+    "distance": 29.728315748767027
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 14:28:01",
+    "sourceLongitude": 120.78671853,
+    "sourceLatitude": 30.67718676,
+    "destinationLongitude": 120.78712,
+    "destinationLatitude": 30.67735,
+    "distance": 42.51476464993986
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 14:04:50",
+    "sourceLongitude": 120.54989233,
+    "sourceLatitude": 30.53380724,
+    "destinationLongitude": 120.550344,
+    "destinationLatitude": 30.53385,
+    "distance": 43.60327324338227
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 14:04:00",
+    "sourceLongitude": 120.5393176,
+    "sourceLatitude": 30.53172764,
+    "destinationLongitude": 120.53972,
+    "destinationLatitude": 30.531834,
+    "distance": 40.37742968891235
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 14:01:06",
+    "sourceLongitude": 120.5078255,
+    "sourceLatitude": 30.5129614,
+    "destinationLongitude": 120.507984,
+    "destinationLatitude": 30.513032,
+    "distance": 17.10902240155479
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:58:05",
+    "sourceLongitude": 120.47400594,
+    "sourceLatitude": 30.49414834,
+    "destinationLongitude": 120.474064,
+    "destinationLatitude": 30.494266,
+    "distance": 14.184945489076698
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:55:06",
+    "sourceLongitude": 120.44044819,
+    "sourceLatitude": 30.48044259,
+    "destinationLongitude": 120.44088,
+    "destinationLatitude": 30.4805,
+    "distance": 41.947218996670266
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:52:07",
+    "sourceLongitude": 120.40916635,
+    "sourceLatitude": 30.4598801,
+    "destinationLongitude": 120.4092,
+    "destinationLatitude": 30.460016,
+    "distance": 15.408611239249025
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:49:06",
+    "sourceLongitude": 120.38368343,
+    "sourceLatitude": 30.43028651,
+    "destinationLongitude": 120.384088,
+    "destinationLatitude": 30.4305,
+    "distance": 45.50502161892825
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:46:06",
+    "sourceLongitude": 120.3474081,
+    "sourceLatitude": 30.4089769,
+    "destinationLongitude": 120.347784,
+    "destinationLatitude": 30.409166,
+    "distance": 41.76228082694165
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:43:07",
+    "sourceLongitude": 120.3103633,
+    "sourceLatitude": 30.39039396,
+    "destinationLongitude": 120.310768,
+    "destinationLatitude": 30.390566,
+    "distance": 43.318689977642464
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:40:04",
+    "sourceLongitude": 120.27971416,
+    "sourceLatitude": 30.36661963,
+    "destinationLongitude": 120.279744,
+    "destinationLatitude": 30.366766,
+    "distance": 16.47797729513705
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:37:12",
+    "sourceLongitude": 120.27108107,
+    "sourceLatitude": 30.34771735,
+    "destinationLongitude": 120.27116,
+    "destinationLatitude": 30.347666,
+    "distance": 9.486724318827306
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:34:57",
+    "sourceLongitude": 120.24832002,
+    "sourceLatitude": 30.35779214,
+    "destinationLongitude": 120.24868,
+    "destinationLatitude": 30.357666,
+    "distance": 37.326251675694905
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:34:02",
+    "sourceLongitude": 120.23790559,
+    "sourceLatitude": 30.36127537,
+    "destinationLongitude": 120.238056,
+    "destinationLatitude": 30.3612,
+    "distance": 16.700132068555845
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:31:11",
+    "sourceLongitude": 120.2095239,
+    "sourceLatitude": 30.37521101,
+    "destinationLongitude": 120.209552,
+    "destinationLatitude": 30.375134,
+    "distance": 8.954319200154202
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:28:17",
+    "sourceLongitude": 120.19614096,
+    "sourceLatitude": 30.38487756,
+    "destinationLongitude": 120.196248,
+    "destinationLatitude": 30.38475,
+    "distance": 17.48747315837712
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:25:17",
+    "sourceLongitude": 120.1704677,
+    "sourceLatitude": 30.39225212,
+    "destinationLongitude": 120.170632,
+    "destinationLatitude": 30.392316,
+    "distance": 17.305302425596302
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:22:01",
+    "sourceLongitude": 120.13460078,
+    "sourceLatitude": 30.38797245,
+    "destinationLongitude": 120.134848,
+    "destinationLatitude": 30.38795,
+    "distance": 23.89000040927453
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:19:08",
+    "sourceLongitude": 120.10569625,
+    "sourceLatitude": 30.38743733,
+    "destinationLongitude": 120.105848,
+    "destinationLatitude": 30.3874,
+    "distance": 15.160350704007604
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:16:04",
+    "sourceLongitude": 120.08260081,
+    "sourceLatitude": 30.37663447,
+    "destinationLongitude": 120.08268,
+    "destinationLatitude": 30.376668,
+    "distance": 8.470846165277617
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:13:11",
+    "sourceLongitude": 120.06132339,
+    "sourceLatitude": 30.35949341,
+    "destinationLongitude": 120.061504,
+    "destinationLatitude": 30.359766,
+    "distance": 34.85203794250334
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:10:57",
+    "sourceLongitude": 120.05505469,
+    "sourceLatitude": 30.34312773,
+    "destinationLongitude": 120.055152,
+    "destinationLatitude": 30.3433,
+    "distance": 21.266463002760723
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:10:04",
+    "sourceLongitude": 120.05080349,
+    "sourceLatitude": 30.3346619,
+    "destinationLongitude": 120.050936,
+    "destinationLatitude": 30.334882,
+    "distance": 27.526694801812813
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:07:00",
+    "sourceLongitude": 120.05189863,
+    "sourceLatitude": 30.30162396,
+    "destinationLongitude": 120.051952,
+    "destinationLatitude": 30.301816,
+    "distance": 21.89934213501254
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:04:06",
+    "sourceLongitude": 120.04156686,
+    "sourceLatitude": 30.27598712,
+    "destinationLongitude": 120.041568,
+    "destinationLatitude": 30.276318,
+    "distance": 36.68056442739395
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 13:01:11",
+    "sourceLongitude": 120.03907608,
+    "sourceLatitude": 30.25126161,
+    "destinationLongitude": 120.039016,
+    "destinationLatitude": 30.251368,
+    "distance": 13.135207628028398
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:58:02",
+    "sourceLongitude": 120.05392818,
+    "sourceLatitude": 30.22474325,
+    "destinationLongitude": 120.053816,
+    "destinationLatitude": 30.224866,
+    "distance": 17.372186801148484
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:55:22",
+    "sourceLongitude": 120.05426811,
+    "sourceLatitude": 30.20862295,
+    "destinationLongitude": 120.054264,
+    "destinationLatitude": 30.208634,
+    "distance": 1.2872927410995396
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:52:49",
+    "sourceLongitude": 120.05323918,
+    "sourceLatitude": 30.20197893,
+    "destinationLongitude": 120.0532,
+    "destinationLatitude": 30.202066,
+    "distance": 10.363312172592805
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:49:23",
+    "sourceLongitude": 120.05268249,
+    "sourceLatitude": 30.19163978,
+    "destinationLongitude": 120.052648,
+    "destinationLatitude": 30.191668,
+    "distance": 4.562701632719745
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:46:32",
+    "sourceLongitude": 120.05464546,
+    "sourceLatitude": 30.18638275,
+    "destinationLongitude": 120.054664,
+    "destinationLatitude": 30.1863,
+    "distance": 9.345451172821903
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:43:30",
+    "sourceLongitude": 120.05950278,
+    "sourceLatitude": 30.18063461,
+    "destinationLongitude": 120.05952,
+    "destinationLatitude": 30.180616,
+    "distance": 2.64699814126219
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:40:33",
+    "sourceLongitude": 120.06245359,
+    "sourceLatitude": 30.17766195,
+    "destinationLongitude": 120.062448,
+    "destinationLatitude": 30.177634,
+    "distance": 3.144838833599725
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:40:33",
+    "sourceLongitude": 120.06245359,
+    "sourceLatitude": 30.17766195,
+    "destinationLongitude": 120.062448,
+    "destinationLatitude": 30.177634,
+    "distance": 3.144838833599725
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:37:55",
+    "sourceLongitude": 120.0647094,
+    "sourceLatitude": 30.17537573,
+    "destinationLongitude": 120.06468,
+    "destinationLatitude": 30.17535,
+    "distance": 4.019225220749877
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:34:25",
+    "sourceLongitude": 120.07090997,
+    "sourceLatitude": 30.16918914,
+    "destinationLongitude": 120.070816,
+    "destinationLatitude": 30.169166,
+    "distance": 9.407869179867863
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:28:22",
+    "sourceLongitude": 120.08052887,
+    "sourceLatitude": 30.16115567,
+    "destinationLongitude": 120.080616,
+    "destinationLatitude": 30.161,
+    "distance": 19.189695464953218
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:25:22",
+    "sourceLongitude": 120.0812242,
+    "sourceLatitude": 30.15968352,
+    "destinationLongitude": 120.0812,
+    "destinationLatitude": 30.159666,
+    "distance": 3.0342481379728254
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:19:25",
+    "sourceLongitude": 120.0827909,
+    "sourceLatitude": 30.15576303,
+    "destinationLongitude": 120.0828,
+    "destinationLatitude": 30.1557,
+    "distance": 7.041975070056126
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:16:24",
+    "sourceLongitude": 120.08406391,
+    "sourceLatitude": 30.15262302,
+    "destinationLongitude": 120.083984,
+    "destinationLatitude": 30.152532,
+    "distance": 12.691488904967837
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:13:39",
+    "sourceLongitude": 120.08610749,
+    "sourceLatitude": 30.14805664,
+    "destinationLongitude": 120.086152,
+    "destinationLatitude": 30.148,
+    "distance": 7.603448406802011
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:10:55",
+    "sourceLongitude": 120.09087618,
+    "sourceLatitude": 30.14242501,
+    "destinationLongitude": 120.090768,
+    "destinationLatitude": 30.142482,
+    "distance": 12.18811274682348
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:10:08",
+    "sourceLongitude": 120.09848931,
+    "sourceLatitude": 30.13767351,
+    "destinationLongitude": 120.098568,
+    "destinationLatitude": 30.13765,
+    "distance": 8.01742135639927
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:07:06",
+    "sourceLongitude": 120.10323211,
+    "sourceLatitude": 30.11693365,
+    "destinationLongitude": 120.103432,
+    "destinationLatitude": 30.117134,
+    "distance": 29.400180363998043
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:04:08",
+    "sourceLongitude": 120.08377002,
+    "sourceLatitude": 30.08675927,
+    "destinationLongitude": 120.084184,
+    "destinationLatitude": 30.086934,
+    "distance": 44.36069431322695
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 12:01:00",
+    "sourceLongitude": 120.04989758,
+    "sourceLatitude": 30.0646141,
+    "destinationLongitude": 120.050064,
+    "destinationLatitude": 30.064716,
+    "distance": 19.62395679695821
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 11:58:01",
+    "sourceLongitude": 120.03963499,
+    "sourceLatitude": 30.03102881,
+    "destinationLongitude": 120.03968,
+    "destinationLatitude": 30.031468,
+    "distance": 48.878706308484034
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 11:55:04",
+    "sourceLongitude": 120.01254554,
+    "sourceLatitude": 30.00643124,
+    "destinationLongitude": 120.012968,
+    "destinationLatitude": 30.006684,
+    "distance": 49.46067657560991
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 11:52:02",
+    "sourceLongitude": 119.96987103,
+    "sourceLatitude": 30.00396068,
+    "destinationLongitude": 119.969848,
+    "destinationLatitude": 30.003982,
+    "distance": 3.243884361770232
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 11:49:07",
+    "sourceLongitude": 119.9326602,
+    "sourceLatitude": 29.98975102,
+    "destinationLongitude": 119.9328,
+    "destinationLatitude": 29.989866,
+    "distance": 18.55908632152893
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 11:46:03",
+    "sourceLongitude": 119.9181784,
+    "sourceLatitude": 29.95765461,
+    "destinationLongitude": 119.918112,
+    "destinationLatitude": 29.957834,
+    "distance": 20.89308910343301
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 11:43:01",
+    "sourceLongitude": 119.905701,
+    "sourceLatitude": 29.9256306,
+    "destinationLongitude": 119.905912,
+    "destinationLatitude": 29.925734,
+    "distance": 23.376649343771618
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 11:40:06",
+    "sourceLongitude": 119.86986845,
+    "sourceLatitude": 29.90535955,
+    "destinationLongitude": 119.870272,
+    "destinationLatitude": 29.9057,
+    "distance": 54.25133447218224
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 11:39:57",
+    "sourceLongitude": 119.86825475,
+    "sourceLatitude": 29.9042807,
+    "destinationLongitude": 119.8686,
+    "destinationLatitude": 29.904418,
+    "distance": 36.65311819262671
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 11:39:04",
+    "sourceLongitude": 119.85957839,
+    "sourceLatitude": 29.8959639,
+    "destinationLongitude": 119.859704,
+    "destinationLatitude": 29.8961,
+    "distance": 19.359817095493426
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 11:34:03",
+    "sourceLongitude": 119.81236597,
+    "sourceLatitude": 29.85392614,
+    "destinationLongitude": 119.812496,
+    "destinationLatitude": 29.85395,
+    "distance": 12.839806079262233
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 11:33:07",
+    "sourceLongitude": 119.80426627,
+    "sourceLatitude": 29.84865669,
+    "destinationLongitude": 119.804496,
+    "destinationLatitude": 29.848682,
+    "distance": 22.37593445001791
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 11:30:01",
+    "sourceLongitude": 119.79984759,
+    "sourceLatitude": 29.84283486,
+    "destinationLongitude": 119.79992,
+    "destinationLatitude": 29.8428,
+    "distance": 7.993623026259572
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 11:15:07",
+    "sourceLongitude": 119.800055,
+    "sourceLatitude": 29.843607,
+    "destinationLongitude": 119.79992,
+    "destinationLatitude": 29.8428,
+    "distance": 90.40209520555389
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 10:58:02",
+    "sourceLongitude": 119.79978911,
+    "sourceLatitude": 29.84313942,
+    "destinationLongitude": 119.79992,
+    "destinationLatitude": 29.8428,
+    "distance": 39.69393875981696
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 10:49:03",
+    "sourceLongitude": 119.75138431,
+    "sourceLatitude": 29.80357672,
+    "destinationLongitude": 119.751688,
+    "destinationLatitude": 29.803868,
+    "distance": 43.64056303534432
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 10:46:03",
+    "sourceLongitude": 119.72101003,
+    "sourceLatitude": 29.7816248,
+    "destinationLongitude": 119.721216,
+    "destinationLatitude": 29.78175,
+    "distance": 24.27506041733563
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 06:31:36",
+    "sourceLongitude": 117.67827985,
+    "sourceLatitude": 28.35400799,
+    "destinationLongitude": 117.678448,
+    "destinationLatitude": 28.354218,
+    "distance": 28.521188835165983
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 06:25:41",
+    "sourceLongitude": 117.67839709,
+    "sourceLatitude": 28.35423596,
+    "destinationLongitude": 117.678448,
+    "destinationLatitude": 28.354218,
+    "distance": 5.3733761553154595
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 06:22:03",
+    "sourceLongitude": 117.64731545,
+    "sourceLatitude": 28.3499937,
+    "destinationLongitude": 117.647864,
+    "destinationLatitude": 28.35,
+    "distance": 53.78559537997175
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 06:19:04",
+    "sourceLongitude": 117.60977507,
+    "sourceLatitude": 28.35770988,
+    "destinationLongitude": 117.610072,
+    "destinationLatitude": 28.35765,
+    "distance": 29.856442570190886
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 06:16:08",
+    "sourceLongitude": 117.57207663,
+    "sourceLatitude": 28.35829938,
+    "destinationLongitude": 117.572416,
+    "destinationLatitude": 28.358232,
+    "distance": 34.097740211204275
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 06:13:04",
+    "sourceLongitude": 117.53632561,
+    "sourceLatitude": 28.34454503,
+    "destinationLongitude": 117.536736,
+    "destinationLatitude": 28.3448,
+    "distance": 49.16830555618958
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 06:10:58",
+    "sourceLongitude": 117.51047251,
+    "sourceLatitude": 28.33640553,
+    "destinationLongitude": 117.51072,
+    "destinationLatitude": 28.336384,
+    "distance": 24.384582198767912
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 06:10:08",
+    "sourceLongitude": 117.49973762,
+    "sourceLatitude": 28.33727904,
+    "destinationLongitude": 117.5,
+    "destinationLatitude": 28.337218,
+    "distance": 26.601889593193917
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 06:07:03",
+    "sourceLongitude": 117.46097999,
+    "sourceLatitude": 28.34582211,
+    "destinationLongitude": 117.4612,
+    "destinationLatitude": 28.345832,
+    "distance": 21.59894112657771
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 06:04:08",
+    "sourceLongitude": 117.42283881,
+    "sourceLatitude": 28.34897435,
+    "destinationLongitude": 117.422984,
+    "destinationLatitude": 28.34895,
+    "distance": 14.488424891797525
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 06:01:06",
+    "sourceLongitude": 117.38579884,
+    "sourceLatitude": 28.35748117,
+    "destinationLongitude": 117.38592,
+    "destinationLatitude": 28.357532,
+    "distance": 13.146079783288252
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 05:58:03",
+    "sourceLongitude": 117.34673492,
+    "sourceLatitude": 28.35229234,
+    "destinationLongitude": 117.347168,
+    "destinationLatitude": 28.35225,
+    "distance": 42.71772034307067
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 05:55:05",
+    "sourceLongitude": 117.30990927,
+    "sourceLatitude": 28.35360105,
+    "destinationLongitude": 117.310336,
+    "destinationLatitude": 28.35355,
+    "distance": 42.2169720495108
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 05:52:06",
+    "sourceLongitude": 117.271864,
+    "sourceLatitude": 28.36072182,
+    "destinationLongitude": 117.27212,
+    "destinationLatitude": 28.3606,
+    "distance": 28.497267919519125
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 05:49:09",
+    "sourceLongitude": 117.23363016,
+    "sourceLatitude": 28.35853109,
+    "destinationLongitude": 117.233816,
+    "destinationLatitude": 28.35855,
+    "distance": 18.338847687035184
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 05:46:06",
+    "sourceLongitude": 117.19475652,
+    "sourceLatitude": 28.3589071,
+    "destinationLongitude": 117.194816,
+    "destinationLatitude": 28.358984,
+    "distance": 10.32635770397371
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 05:43:04",
+    "sourceLongitude": 117.1556927,
+    "sourceLatitude": 28.35626871,
+    "destinationLongitude": 117.156168,
+    "destinationLatitude": 28.356416,
+    "distance": 49.37314406821458
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 05:40:49",
+    "sourceLongitude": 117.12651171,
+    "sourceLatitude": 28.35430608,
+    "destinationLongitude": 117.126744,
+    "destinationLatitude": 28.354232,
+    "distance": 24.207993080020806
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 05:40:05",
+    "sourceLongitude": 117.11740105,
+    "sourceLatitude": 28.35228853,
+    "destinationLongitude": 117.117784,
+    "destinationLatitude": 28.352284,
+    "distance": 37.54782186115997
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 05:37:05",
+    "sourceLongitude": 117.08053051,
+    "sourceLatitude": 28.34301143,
+    "destinationLongitude": 117.080736,
+    "destinationLatitude": 28.343032,
+    "distance": 20.276571354401746
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 05:34:02",
+    "sourceLongitude": 117.04298631,
+    "sourceLatitude": 28.33729282,
+    "destinationLongitude": 117.043416,
+    "destinationLatitude": 28.337384,
+    "distance": 43.32759792844113
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 04:22:03",
+    "sourceLongitude": 116.79517938,
+    "sourceLatitude": 27.81965584,
+    "destinationLongitude": 116.795152,
+    "destinationLatitude": 27.8198,
+    "distance": 16.201474851244452
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 04:19:03",
+    "sourceLongitude": 116.79723823,
+    "sourceLatitude": 27.7872971,
+    "destinationLongitude": 116.797136,
+    "destinationLatitude": 27.7877,
+    "distance": 45.77044560111445
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 04:16:06",
+    "sourceLongitude": 116.79351122,
+    "sourceLatitude": 27.75465223,
+    "destinationLongitude": 116.793616,
+    "destinationLatitude": 27.754816,
+    "distance": 20.882044199754596
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 04:13:03",
+    "sourceLongitude": 116.7713196,
+    "sourceLatitude": 27.72618811,
+    "destinationLongitude": 116.771488,
+    "destinationLatitude": 27.726316,
+    "distance": 21.831224444367898
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 04:10:04",
+    "sourceLongitude": 116.74386217,
+    "sourceLatitude": 27.70035313,
+    "destinationLongitude": 116.74416,
+    "destinationLatitude": 27.700684,
+    "distance": 46.98161271554359
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 04:07:07",
+    "sourceLongitude": 116.73094216,
+    "sourceLatitude": 27.66754935,
+    "destinationLongitude": 116.730976,
+    "destinationLatitude": 27.66775,
+    "distance": 22.484120966293784
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 04:04:27",
+    "sourceLongitude": 116.7073141,
+    "sourceLatitude": 27.65061005,
+    "destinationLongitude": 116.707464,
+    "destinationLatitude": 27.65055,
+    "distance": 16.219616416110945
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 03:40:51",
+    "sourceLongitude": 116.62255041,
+    "sourceLatitude": 27.43078853,
+    "destinationLongitude": 116.622848,
+    "destinationLatitude": 27.431134,
+    "distance": 48.28298155093141
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 03:40:06",
+    "sourceLongitude": 116.6174527,
+    "sourceLatitude": 27.42292104,
+    "destinationLongitude": 116.617552,
+    "destinationLatitude": 27.423116,
+    "distance": 23.73023011962599
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 03:37:07",
+    "sourceLongitude": 116.61665179,
+    "sourceLatitude": 27.38717285,
+    "destinationLongitude": 116.616712,
+    "destinationLatitude": 27.387416,
+    "distance": 27.593716892782794
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 03:31:01",
+    "sourceLongitude": 116.60266391,
+    "sourceLatitude": 27.31663898,
+    "destinationLongitude": 116.6028,
+    "destinationLatitude": 27.316918,
+    "distance": 33.72445084687579
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 03:25:00",
+    "sourceLongitude": 116.58038956,
+    "sourceLatitude": 27.25211877,
+    "destinationLongitude": 116.58044,
+    "destinationLatitude": 27.2521,
+    "distance": 5.410902365420983
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 03:22:05",
+    "sourceLongitude": 116.56692169,
+    "sourceLatitude": 27.21996783,
+    "destinationLongitude": 116.566944,
+    "destinationLatitude": 27.22015,
+    "distance": 20.30633394006311
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 03:19:06",
+    "sourceLongitude": 116.55032305,
+    "sourceLatitude": 27.18930637,
+    "destinationLongitude": 116.550568,
+    "destinationLatitude": 27.189382,
+    "distance": 25.67764642099675
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 03:16:05",
+    "sourceLongitude": 116.52648846,
+    "sourceLatitude": 27.16270779,
+    "destinationLongitude": 116.526464,
+    "destinationLatitude": 27.162734,
+    "distance": 3.7830707544930866
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 03:10:01",
+    "sourceLongitude": 116.51240454,
+    "sourceLatitude": 27.09521779,
+    "destinationLongitude": 116.5124,
+    "destinationLatitude": 27.095382,
+    "distance": 18.20086219134399
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 03:07:06",
+    "sourceLongitude": 116.49283217,
+    "sourceLatitude": 27.06721738,
+    "destinationLongitude": 116.4932,
+    "destinationLatitude": 27.06745,
+    "distance": 44.673054845106826
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 03:04:06",
+    "sourceLongitude": 116.46913669,
+    "sourceLatitude": 27.03939162,
+    "destinationLongitude": 116.469288,
+    "destinationLatitude": 27.039432,
+    "distance": 15.665561559741153
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 03:01:01",
+    "sourceLongitude": 116.43978247,
+    "sourceLatitude": 27.01537023,
+    "destinationLongitude": 116.44,
+    "destinationLatitude": 27.015484,
+    "distance": 24.999105621483825
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:58:00",
+    "sourceLongitude": 116.41792887,
+    "sourceLatitude": 26.98681492,
+    "destinationLongitude": 116.418056,
+    "destinationLatitude": 26.986932,
+    "distance": 18.098417077665435
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:55:02",
+    "sourceLongitude": 116.39698012,
+    "sourceLatitude": 26.95745242,
+    "destinationLongitude": 116.397048,
+    "destinationLatitude": 26.95765,
+    "distance": 22.90644698452158
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:52:05",
+    "sourceLongitude": 116.38720719,
+    "sourceLatitude": 26.92479677,
+    "destinationLongitude": 116.387368,
+    "destinationLatitude": 26.925184,
+    "distance": 45.78232199081033
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:49:03",
+    "sourceLongitude": 116.37061789,
+    "sourceLatitude": 26.89221167,
+    "destinationLongitude": 116.3708,
+    "destinationLatitude": 26.892584,
+    "distance": 45.04775359873336
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:46:04",
+    "sourceLongitude": 116.35659659,
+    "sourceLatitude": 26.85923072,
+    "destinationLongitude": 116.356736,
+    "destinationLatitude": 26.859582,
+    "distance": 41.31447261923805
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:43:06",
+    "sourceLongitude": 116.34279392,
+    "sourceLatitude": 26.82655574,
+    "destinationLongitude": 116.342904,
+    "destinationLatitude": 26.826732,
+    "distance": 22.386455554606965
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:40:57",
+    "sourceLongitude": 116.34162348,
+    "sourceLatitude": 26.80132325,
+    "destinationLongitude": 116.34168,
+    "destinationLatitude": 26.80155,
+    "distance": 25.74482576992505
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:40:09",
+    "sourceLongitude": 116.34122346,
+    "sourceLatitude": 26.7918894,
+    "destinationLongitude": 116.341136,
+    "destinationLatitude": 26.792232,
+    "distance": 38.94364784099706
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:37:06",
+    "sourceLongitude": 116.34244014,
+    "sourceLatitude": 26.75813154,
+    "destinationLongitude": 116.342568,
+    "destinationLatitude": 26.7585,
+    "distance": 42.76030474441254
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:34:01",
+    "sourceLongitude": 116.34775631,
+    "sourceLatitude": 26.72304251,
+    "destinationLongitude": 116.3478,
+    "destinationLatitude": 26.723218,
+    "distance": 19.924142183176336
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:31:07",
+    "sourceLongitude": 116.34769741,
+    "sourceLatitude": 26.68872142,
+    "destinationLongitude": 116.347744,
+    "destinationLatitude": 26.68885,
+    "distance": 14.982114189826138
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:28:05",
+    "sourceLongitude": 116.33585315,
+    "sourceLatitude": 26.65721035,
+    "destinationLongitude": 116.335832,
+    "destinationLatitude": 26.657418,
+    "distance": 23.10338372810067
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:25:08",
+    "sourceLongitude": 116.33721395,
+    "sourceLatitude": 26.62420878,
+    "destinationLongitude": 116.33712,
+    "destinationLatitude": 26.6244,
+    "distance": 23.160483958874128
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:22:08",
+    "sourceLongitude": 116.34413354,
+    "sourceLatitude": 26.59397768,
+    "destinationLongitude": 116.34412,
+    "destinationLatitude": 26.594366,
+    "distance": 43.04589045979908
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:19:54",
+    "sourceLongitude": 116.33816944,
+    "sourceLatitude": 26.57593353,
+    "destinationLongitude": 116.338152,
+    "destinationLatitude": 26.575916,
+    "distance": 2.605982934988598
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:16:47",
+    "sourceLongitude": 116.33935875,
+    "sourceLatitude": 26.5741453,
+    "destinationLongitude": 116.3394,
+    "destinationLatitude": 26.574132,
+    "distance": 4.365786469723664
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-19 02:13:46",
+    "sourceLongitude": 116.33943867,
+    "sourceLatitude": 26.5741139,
+    "destinationLongitude": 116.3394,
+    "destinationLatitude": 26.574132,
+    "distance": 4.343245618808043
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 20:10:00",
+    "sourceLongitude": 114.593235,
+    "sourceLatitude": 24.50488776,
+    "destinationLongitude": 114.593464,
+    "destinationLatitude": 24.504966,
+    "distance": 24.774547961071814
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 20:07:07",
+    "sourceLongitude": 114.56863257,
+    "sourceLatitude": 24.48183578,
+    "destinationLongitude": 114.568632,
+    "destinationLatitude": 24.48195,
+    "distance": 12.65173663301316
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 19:58:50",
+    "sourceLongitude": 114.56132856,
+    "sourceLatitude": 24.44885161,
+    "destinationLongitude": 114.560896,
+    "destinationLatitude": 24.44905,
+    "distance": 49.05668236008026
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 19:55:51",
+    "sourceLongitude": 114.56132876,
+    "sourceLatitude": 24.44885227,
+    "destinationLongitude": 114.560896,
+    "destinationLatitude": 24.44905,
+    "distance": 49.04212277483812
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 19:52:52",
+    "sourceLongitude": 114.56134236,
+    "sourceLatitude": 24.4488435,
+    "destinationLongitude": 114.560896,
+    "destinationLatitude": 24.44905,
+    "distance": 50.710404077513054
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 19:49:54",
+    "sourceLongitude": 114.56137476,
+    "sourceLatitude": 24.44883314,
+    "destinationLongitude": 114.560896,
+    "destinationLatitude": 24.44905,
+    "distance": 54.161983818542275
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 19:46:55",
+    "sourceLongitude": 114.56140361,
+    "sourceLatitude": 24.44891361,
+    "destinationLongitude": 114.560896,
+    "destinationLatitude": 24.44905,
+    "distance": 53.64076058725228
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 19:31:02",
+    "sourceLongitude": 114.56129819,
+    "sourceLatitude": 24.44887887,
+    "destinationLongitude": 114.560896,
+    "destinationLatitude": 24.44905,
+    "distance": 44.97035707451883
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 19:28:04",
+    "sourceLongitude": 114.55971689,
+    "sourceLatitude": 24.44833696,
+    "destinationLongitude": 114.559728,
+    "destinationLatitude": 24.448284,
+    "distance": 5.973287563868592
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 19:26:42",
+    "sourceLongitude": 114.54952272,
+    "sourceLatitude": 24.44185298,
+    "destinationLongitude": 114.549552,
+    "destinationLatitude": 24.441834,
+    "distance": 3.6379759300235452
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 19:22:06",
+    "sourceLongitude": 114.51477002,
+    "sourceLatitude": 24.40398419,
+    "destinationLongitude": 114.51476,
+    "destinationLatitude": 24.404034,
+    "distance": 5.609991417760716
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 19:16:02",
+    "sourceLongitude": 114.50745367,
+    "sourceLatitude": 24.34073867,
+    "destinationLongitude": 114.507584,
+    "destinationLatitude": 24.3409,
+    "distance": 22.23167290868767
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 19:13:03",
+    "sourceLongitude": 114.48250182,
+    "sourceLatitude": 24.31753292,
+    "destinationLongitude": 114.482552,
+    "destinationLatitude": 24.31755,
+    "distance": 5.433295141315378
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 19:10:03",
+    "sourceLongitude": 114.45815317,
+    "sourceLatitude": 24.29320278,
+    "destinationLongitude": 114.458368,
+    "destinationLatitude": 24.293284,
+    "distance": 23.59206022615569
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 19:07:00",
+    "sourceLongitude": 114.42877708,
+    "sourceLatitude": 24.27313985,
+    "destinationLongitude": 114.428984,
+    "destinationLatitude": 24.273184,
+    "distance": 21.57139646839543
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 19:04:00",
+    "sourceLongitude": 114.40141145,
+    "sourceLatitude": 24.25330584,
+    "destinationLongitude": 114.401584,
+    "destinationLatitude": 24.25345,
+    "distance": 23.706639347918117
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 18:10:58",
+    "sourceLongitude": 113.99617111,
+    "sourceLatitude": 23.85062875,
+    "destinationLongitude": 113.996384,
+    "destinationLatitude": 23.850584,
+    "distance": 22.246022324766248
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 18:10:08",
+    "sourceLongitude": 113.98680859,
+    "sourceLatitude": 23.85349436,
+    "destinationLongitude": 113.987,
+    "destinationLatitude": 23.853434,
+    "distance": 20.612520549150958
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 18:07:03",
+    "sourceLongitude": 113.95171273,
+    "sourceLatitude": 23.84576734,
+    "destinationLongitude": 113.95188,
+    "destinationLatitude": 23.8459,
+    "distance": 22.50001324748963
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 18:04:07",
+    "sourceLongitude": 113.92053812,
+    "sourceLatitude": 23.8311756,
+    "destinationLongitude": 113.920688,
+    "destinationLatitude": 23.831284,
+    "distance": 19.424900487795004
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 18:01:06",
+    "sourceLongitude": 113.88628083,
+    "sourceLatitude": 23.82032302,
+    "destinationLongitude": 113.886464,
+    "destinationLatitude": 23.820334,
+    "distance": 18.70323490982872
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:58:17",
+    "sourceLongitude": 113.85399275,
+    "sourceLatitude": 23.8127709,
+    "destinationLongitude": 113.8488,
+    "destinationLatitude": 23.81285,
+    "distance": 529.2055027441075
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:55:02",
+    "sourceLongitude": 113.81798599,
+    "sourceLatitude": 23.81764908,
+    "destinationLongitude": 113.818184,
+    "destinationLatitude": 23.817566,
+    "distance": 22.17535885995571
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:52:09",
+    "sourceLongitude": 113.78595663,
+    "sourceLatitude": 23.80741379,
+    "destinationLongitude": 113.78612,
+    "destinationLatitude": 23.807466,
+    "distance": 17.62350647183507
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:49:08",
+    "sourceLongitude": 113.76150128,
+    "sourceLatitude": 23.78830188,
+    "destinationLongitude": 113.761496,
+    "destinationLatitude": 23.78835,
+    "distance": 5.356637269579001
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:47:00",
+    "sourceLongitude": 113.75268446,
+    "sourceLatitude": 23.76719295,
+    "destinationLongitude": 113.752648,
+    "destinationLatitude": 23.7672,
+    "distance": 3.7976507388499576
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:43:04",
+    "sourceLongitude": 113.73467138,
+    "sourceLatitude": 23.74165949,
+    "destinationLongitude": 113.734816,
+    "destinationLatitude": 23.741784,
+    "distance": 20.188297967863186
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:40:52",
+    "sourceLongitude": 113.7144702,
+    "sourceLatitude": 23.72849614,
+    "destinationLongitude": 113.71468,
+    "destinationLatitude": 23.728518,
+    "distance": 21.528637745082737
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:40:03",
+    "sourceLongitude": 113.70563703,
+    "sourceLatitude": 23.72460777,
+    "destinationLongitude": 113.705664,
+    "destinationLatitude": 23.724568,
+    "distance": 5.19270174693891
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:37:00",
+    "sourceLongitude": 113.67088925,
+    "sourceLatitude": 23.71297895,
+    "destinationLongitude": 113.670912,
+    "destinationLatitude": 23.712984,
+    "distance": 2.3864262608068705
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:34:01",
+    "sourceLongitude": 113.65636589,
+    "sourceLatitude": 23.68288282,
+    "destinationLongitude": 113.656376,
+    "destinationLatitude": 23.682884,
+    "distance": 1.0394638583138178
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:31:02",
+    "sourceLongitude": 113.6607543,
+    "sourceLatitude": 23.64979658,
+    "destinationLongitude": 113.660712,
+    "destinationLatitude": 23.649918,
+    "distance": 14.123183822085803
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:25:09",
+    "sourceLongitude": 113.71244077,
+    "sourceLatitude": 23.61501338,
+    "destinationLongitude": 113.712464,
+    "destinationLatitude": 23.614982,
+    "distance": 4.206973807849196
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:22:09",
+    "sourceLongitude": 113.71738463,
+    "sourceLatitude": 23.58844893,
+    "destinationLongitude": 113.717232,
+    "destinationLatitude": 23.588832,
+    "distance": 45.1959288480667
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:19:37",
+    "sourceLongitude": 113.71700898,
+    "sourceLatitude": 23.56198357,
+    "destinationLongitude": 113.73472,
+    "destinationLatitude": 23.52075,
+    "distance": 4911.734274709904
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:13:07",
+    "sourceLongitude": 113.74818157,
+    "sourceLatitude": 23.50836249,
+    "destinationLongitude": 113.748048,
+    "destinationLatitude": 23.5087,
+    "distance": 39.79125035430726
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:10:53",
+    "sourceLongitude": 113.75394216,
+    "sourceLatitude": 23.48431761,
+    "destinationLongitude": 113.753872,
+    "destinationLatitude": 23.484416,
+    "distance": 13.042486208643389
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:10:04",
+    "sourceLongitude": 113.75793902,
+    "sourceLatitude": 23.47598103,
+    "destinationLongitude": 113.758016,
+    "destinationLatitude": 23.475934,
+    "distance": 9.43270327664597
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:07:03",
+    "sourceLongitude": 113.78319083,
+    "sourceLatitude": 23.45273912,
+    "destinationLongitude": 113.783096,
+    "destinationLatitude": 23.452918,
+    "distance": 22.053636309246112
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:04:08",
+    "sourceLongitude": 113.81160101,
+    "sourceLatitude": 23.43514573,
+    "destinationLongitude": 113.811472,
+    "destinationLatitude": 23.435284,
+    "distance": 20.206668766970378
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 17:01:08",
+    "sourceLongitude": 113.8156898,
+    "sourceLatitude": 23.41420915,
+    "destinationLongitude": 113.815832,
+    "destinationLatitude": 23.41425,
+    "distance": 15.221703473506466
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 16:58:02",
+    "sourceLongitude": 113.78202461,
+    "sourceLatitude": 23.40150178,
+    "destinationLongitude": 113.78228,
+    "destinationLatitude": 23.401466,
+    "distance": 26.404192771838353
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 16:55:00",
+    "sourceLongitude": 113.74835078,
+    "sourceLatitude": 23.39249862,
+    "destinationLongitude": 113.748752,
+    "destinationLatitude": 23.3926,
+    "distance": 42.52324576305953
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 16:52:07",
+    "sourceLongitude": 113.71842185,
+    "sourceLatitude": 23.37609832,
+    "destinationLongitude": 113.718632,
+    "destinationLatitude": 23.376084,
+    "distance": 21.54341270128216
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 16:49:08",
+    "sourceLongitude": 113.68466016,
+    "sourceLatitude": 23.36877624,
+    "destinationLongitude": 113.684712,
+    "destinationLatitude": 23.368718,
+    "distance": 8.348369803020399
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 16:46:08",
+    "sourceLongitude": 113.65127816,
+    "sourceLatitude": 23.36102793,
+    "destinationLongitude": 113.65148,
+    "destinationLatitude": 23.361134,
+    "distance": 23.746794362245776
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 16:43:05",
+    "sourceLongitude": 113.62030113,
+    "sourceLatitude": 23.34554641,
+    "destinationLongitude": 113.620512,
+    "destinationLatitude": 23.345516,
+    "distance": 21.824927287462042
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 16:40:51",
+    "sourceLongitude": 113.6088526,
+    "sourceLatitude": 23.32391221,
+    "destinationLongitude": 113.609,
+    "destinationLatitude": 23.324034,
+    "distance": 20.22867156013359
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 16:40:10",
+    "sourceLongitude": 113.60360617,
+    "sourceLatitude": 23.31811703,
+    "destinationLongitude": 113.603768,
+    "destinationLatitude": 23.318184,
+    "distance": 18.13782696846792
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 16:37:08",
+    "sourceLongitude": 113.59702088,
+    "sourceLatitude": 23.31344646,
+    "destinationLongitude": 113.597088,
+    "destinationLatitude": 23.313432,
+    "distance": 7.0496235787994
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 16:34:27",
+    "sourceLongitude": 113.59697662,
+    "sourceLatitude": 23.31342842,
+    "destinationLongitude": 113.597088,
+    "destinationLatitude": 23.313432,
+    "distance": 11.399322053861908
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 14:05:40",
+    "sourceLongitude": 113.29069903,
+    "sourceLatitude": 23.3429634,
+    "destinationLongitude": 113.29072,
+    "destinationLatitude": 23.343082,
+    "distance": 13.152946437965905
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 13:59:41",
+    "sourceLongitude": 113.29068547,
+    "sourceLatitude": 23.3430047,
+    "destinationLongitude": 113.29072,
+    "destinationLatitude": 23.343082,
+    "distance": 8.54400374531753
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 13:53:43",
+    "sourceLongitude": 113.29064906,
+    "sourceLatitude": 23.34286056,
+    "destinationLongitude": 113.29072,
+    "destinationLatitude": 23.343082,
+    "distance": 25
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 13:50:44",
+    "sourceLongitude": 113.29080403,
+    "sourceLatitude": 23.34318369,
+    "destinationLongitude": 113.29072,
+    "destinationLatitude": 23.343082,
+    "distance": 15
+  },
+  {
+    "sourceDeviceId": "861260030902843",
+    "destinationDeviceId": "粤BBZ769",
+    "time": "2017-05-18 13:47:46",
+    "sourceLongitude": 113.29080915,
+    "sourceLatitude": 23.34318817,
+    "destinationLongitude": 113.29072,
+    "destinationLatitude": 23.343082,
+    "distance": 15
+  }
+]
